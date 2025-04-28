@@ -1,33 +1,31 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Header from '@/components/Header'
+import Home from '@/components/Home'
+import Question from './components/Question'
+import { useEffect, useState } from 'react'
+import { lsObj } from '@/components/LocalStorage.js'
+import '@/App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+
+  // 問題を解くページの番号を格納
+  const [pageStutas, setPageStutas] = useState("");
+
+  // 問題を解いている途中のリロード対応
+  useEffect(() => {
+    if (!lsObj.connect) return;
+    const pageData = lsObj.get("section");
+
+    if (!pageData) return;
+    setPageStutas(pageData);
+  }, [])
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <Header />
+
+      <main className='main'>
+        {!pageStutas ? <Home stateProp={setPageStutas}/> : <Question sectionNum={pageStutas}/>}
+      </main>
     </>
   )
 }

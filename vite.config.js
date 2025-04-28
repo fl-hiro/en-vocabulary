@@ -7,4 +7,9 @@ export default defineConfig({
   ? "en-vocabulary"
   : "./",  
   plugins: [react()],
+  resolve: {
+    alias: {
+      "@": "/src",
+    },
+  },
 })
