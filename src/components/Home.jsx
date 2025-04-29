@@ -8,7 +8,7 @@ function Home({stateProp}) {
 
     // jsonデータを取得してstateに格納
     useEffect(() => {
-        const basePath = location.hostname.indexOf("github") !== -1 ? "" : "/public";
+        const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
         getWordData(`${basePath}/data/toeic.json`).then((data) => {
             if(!(data && Object.keys(data).length > 0)) return;
             const sectionData =  Object.keys(data);
