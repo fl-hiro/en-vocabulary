@@ -8,7 +8,8 @@ function Home({stateProp}) {
 
     // jsonデータを取得してstateに格納
     useEffect(() => {
-        getWordData("/public/data/toeic.json").then((data) => {
+        const basePath = location.hostname.indexOf("github") !== -1 ? "" : "/public";
+        getWordData(`${basePath}/data/toeic.json`).then((data) => {
             if(!(data && Object.keys(data).length > 0)) return;
             const sectionData =  Object.keys(data);
             setToeicList(sectionData);
