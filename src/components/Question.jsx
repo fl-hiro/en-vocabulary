@@ -17,8 +17,9 @@ function Question({sectionNum}) {
 
     // ブラウザの戻るボタン押下時のイベント
     window.addEventListener("popstate", () => {
+        const rootPath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "";
         history.back();
-        location.href = "/";
+        location.href = rootPath;
         
         lsObj.delete(keyName);
     })
