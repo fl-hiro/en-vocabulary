@@ -31,8 +31,7 @@ function Question({sectionNum}) {
 
     // 単語のjsonデータを取得
     useEffect(() => {
-        const basePath = location.hostname.indexOf("github") !== -1 ? "" : "/src";
-        getWordData(`${basePath}/assets/data/toeic.json`).then((data) => {
+        getWordData("/public/data/toeic.json").then((data) => {
             if(!(data && Object.keys(data).length > 0)) return;
             const sectionData =  data[targetSection];
             setQuestionList(sectionData);
