@@ -5,28 +5,200 @@
             "word": "anyway",
             "sentence": "Let's try anyway",
             "jp_sentence": "とにかくやってみよう",
-            "desc": "副詞 とにかく"
+            "category01": "副",
+            "desc01": "とにかく",
+            "category02": "",
+            "desc02": ""
         },
         {
             "id": 2,
-            "word": "anyway",
-            "sentence": "Let's try anyway",
-            "jp_sentence": "とにかくやってみよう",
-            "desc": "副詞 とにかく"
+            "word": "following",
+            "sentence": "Following the speach, we had dinner",
+            "jp_sentence": "スピーチに続いて、夕食をとった",
+            "category01": "前",
+            "desc01": "〜に続いて 形 次の、以下の",
+            "category02": "",
+            "desc02": ""
         },
         {
             "id": 3,
-            "word": "anyway",
-            "sentence": "Let's try anyway",
-            "jp_sentence": "とにかくやってみよう",
-            "desc": "副詞 とにかく"
+            "word": "refer",
+            "sentence": "Please refer to the map",
+            "jp_sentence": "地図を参照してください",
+            "category01": "動",
+            "desc01": "参照する、言及する、（人を）紹介する",
+            "category02": "",
+            "desc02": ""
         },
         {
             "id": 4,
-            "word": "anyway",
-            "sentence": "Let's try anyway",
-            "jp_sentence": "とにかくやってみよう",
-            "desc": "副詞 とにかく"
+            "word": "available",
+            "sentence": "Tickets are available online",
+            "jp_sentence": "チケットはオンラインで入手可能です",
+            "category01": "形",
+            "desc01": "入手できる、利用できる、購入できる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "department",
+            "sentence": "the sales department",
+            "jp_sentence": "営業部",
+            "category01": "名",
+            "desc01": "部門、売り場",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "conference",
+            "sentence": "a large conference room",
+            "jp_sentence": "大きな会議室",
+            "category01": "名",
+            "desc01": "会議",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "according to",
+            "sentence": "according to the e-mail",
+            "jp_sentence": "メールによると",
+            "category01": "前",
+            "desc01": "〜によると、〜に従って",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "likely",
+            "sentence": "Who most likely is the woman?",
+            "jp_sentence": "女性はおそらく誰ですか？",
+            "category01": "副",
+            "desc01": "おそらく",
+            "category02": "形",
+            "desc02": "〜しそうだ"
+        },
+        {
+            "id": 9,
+            "word": "offer",
+            "sentence": "What does the man offer to do?",
+            "jp_sentence": "男性は何をすることを申し出ていますか？",
+            "category01": "動",
+            "desc01": "申し出る、提供する",
+            "category02": "名",
+            "desc02": "申し出、オファー"
+        },
+        {
+            "id": 10,
+            "word": "equipment",
+            "sentence": "new office equipment",
+            "jp_sentence": "新しいオフィス機器",
+            "category01": "名",
+            "desc01": "機器、装備",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "provide",
+            "sentence": "Please provide me with your e-mail address",
+            "jp_sentence": "メールアドレスを提供してください",
+            "category01": "動",
+            "desc01": "提供する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "local",
+            "sentence": "local businesses",
+            "jp_sentence": "地元の会社",
+            "category01": "形",
+            "desc01": "地元の",
+            "category02": "名",
+            "desc02": "地元の人"
+        },
+        {
+            "id": 13,
+            "word": "purchase",
+            "sentence": "purchase tickets",
+            "jp_sentence": "チケットを購入する",
+            "category01": "動",
+            "desc01": "購入する",
+            "category02": "名",
+            "desc02": "購入品"
+        },
+        {
+            "id": 14,
+            "word": "opening",
+            "sentence": "a job opening",
+            "jp_sentence": "仕事の空き",
+            "category01": "名",
+            "desc01": "空き、開店",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "construction",
+            "sentence": "construction project",
+            "jp_sentence": "建設プロジェクト",
+            "category01": "名",
+            "desc01": "建設",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "tour",
+            "sentence": "while touring the factory",
+            "jp_sentence": "工場を見学している間",
+            "category01": "動",
+            "desc01": "見学する、旅行する",
+            "category02": "名",
+            "desc02": "見学、旅行"
+        },
+        {
+            "id": 17,
+            "word": "research",
+            "sentence": "market reseach",
+            "jp_sentence": "市場調査",
+            "category01": "名",
+            "desc01": "研究、調査",
+            "category02": "動",
+            "desc02": "研究する、調査する"
+        },
+        {
+            "id": 18,
+            "word": "attend",
+            "sentence": "attend a meeting",
+            "jp_sentence": "会議に出席する",
+            "category01": "動",
+            "desc01": "出席する、参加する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "delivery",
+            "sentence": "change a delivery date",
+            "jp_sentence": "配達日を変更する",
+            "category01": "名",
+            "desc01": "配達（物）",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 20,
+            "word": "recentry",
+            "sentence": "I recentry bought a printer",
+            "jp_sentence": "私は最近プリンターを買った",
+            "category01": "副",
+            "desc01": "最近",
+            "category02": "",
+            "desc02": ""
         }
     ],
     "section02": [
@@ -35,7 +207,200 @@
             "word": "indicate",
             "sentence": "What is indicated about Mr. Kato",
             "jp_sentence": "加藤さんについて何が島されていますか？",
-            "desc": "動詞 示す"
+            "category01": "動",
+            "desc01": "示す",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "employee",
+            "sentence": "an employee of a hotel",
+            "jp_sentence": "ホテルの従業員",
+            "category01": "名",
+            "desc01": "社員、従業員",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "additional",
+            "sentence": "request additional staff",
+            "jp_sentence": "追加のスタッフを要請する",
+            "category01": "形",
+            "desc01": "追加の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "survey",
+            "sentence": "a customer survey",
+            "jp_sentence": "顧客アンケート調査",
+            "category01": "名",
+            "desc01": "アンケート調査",
+            "category02": "動",
+            "desc02": "アンケート調査を行う"
+        },
+        {
+            "id": 5,
+            "word": "review",
+            "sentence": "review a report",
+            "jp_sentence": "顧客アンケート調査",
+            "category01": "動",
+            "desc01": "検討する、評論する",
+            "category02": "名",
+            "desc02": "検討、評論"
+        },
+        {
+            "id": 6,
+            "word": "production",
+            "sentence": "the production area",
+            "jp_sentence": "生産エリア",
+            "category01": "名",
+            "desc01": "生産、作品",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "located",
+            "sentence": "conviniently located near a subway station",
+            "jp_sentence": "地下鉄の駅近くの便利な場所にある",
+            "category01": "形",
+            "desc01": "位置して",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "detail",
+            "sentence": "details of a plan",
+            "jp_sentence": "計画の詳細",
+            "category01": "名",
+            "desc01": "詳細",
+            "category02": "動",
+            "desc02": "詳しく調べる"
+        },
+        {
+            "id": 9,
+            "word": "announce",
+            "sentence": "announce the winners",
+            "jp_sentence": "入賞者を発表する",
+            "category01": "動",
+            "desc01": "発表する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "repair",
+            "sentence": "a computer repair shop",
+            "jp_sentence": "コンピューターの修理店",
+            "category01": "名",
+            "desc01": "修理",
+            "category02": "動",
+            "desc02": "修理する"
+        },
+        {
+            "id": 11,
+            "word": "increase",
+            "sentence": "an increase in sales",
+            "jp_sentence": "売上の増加",
+            "category01": "名",
+            "desc01": "増加",
+            "category02": "動",
+            "desc02": "増える、増やす"
+        },
+        {
+            "id": 12,
+            "word": "include",
+            "sentence": "What is not included in the form",
+            "jp_sentence": "用紙に含まれていないのは何ですか。",
+            "category01": "動",
+            "desc01": "含む",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "currently",
+            "sentence": "The item is currently out of stock",
+            "jp_sentence": "その品は現在在庫切れです。",
+            "category01": "副",
+            "desc01": "現在",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "advertising",
+            "sentence": "an advertising campaign",
+            "jp_sentence": "広告キャンペーン",
+            "category01": "名",
+            "desc01": "広告（業）、宣伝（活動）",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "charge",
+            "sentence": "We charge $50 for the service",
+            "jp_sentence": "そのサービスには50ドルを請求します。",
+            "category01": "動",
+            "desc01": "請求する",
+            "category02": "名",
+            "desc02": "料金、責任"
+        },
+        {
+            "id": 16,
+            "word": "expect",
+            "sentence": "Mr. Kato is expected to arrive tomorrow",
+            "jp_sentence": "加藤さんは明日到着する予定だ",
+            "category01": "動",
+            "desc01": "予期する、予定する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "firm",
+            "sentence": "a family-owned firm",
+            "jp_sentence": "家族経営の会社",
+            "category01": "名",
+            "desc01": "会社",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "client",
+            "sentence": "visit a client",
+            "jp_sentence": "顧客を訪問する",
+            "category01": "名",
+            "desc01": "顧客、クライアント",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "financial",
+            "sentence": "financial support from the government",
+            "jp_sentence": "政府からのお金の支援",
+            "category01": "形",
+            "desc01": "お金の、財務の、金融の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 20,
+            "word": "annual",
+            "sentence": "an annual report",
+            "jp_sentence": "年次報告書",
+            "category01": "形",
+            "desc01": "年に一度の、毎年恒例の、年間の",
+            "category02": "",
+            "desc02": ""
         }
     ]
 }

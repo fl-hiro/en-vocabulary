@@ -22,7 +22,18 @@ function Home({stateProp}) {
             const uniqueKey = item.slice(-2);
             return (
             <li className="main-container__item" key={uniqueKey}>
-                <button onClick={() => stateProp(uniqueKey)}>{item}</button>
+                <button className="main-container__item-link" onClick={() => stateProp(uniqueKey)}>
+                    <div className="main-container__item-inner main-container__flex">
+                        <div className="main-conainer__flex-left">
+                            <h2 className="main-container__item-title">{item}</h2>
+                            <div className="main-container__text">Complete<span className="u-ml-3 u-mr-3">0</span>time</div>
+                        </div>
+                        <div className="main-container__flex-right">
+                            <p className="u-fs-30 u-font-bold" id={`section${uniqueKey}`}>0<span className="u-fs-14">%</span></p>
+                        </div>
+                    </div>
+                    <div className="main-container__item-progress"></div>
+                </button>
 
             </li>
             )
