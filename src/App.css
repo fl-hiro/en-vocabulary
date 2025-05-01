@@ -18,6 +18,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 .main-container__flex {
   display: flex;
@@ -33,6 +34,7 @@
 }
 .main-container__item {
   width: calc(97% / 2);
+  margin-bottom: 20px;
 }
 .main-container__item-link {
   position: relative;

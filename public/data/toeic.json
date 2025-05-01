@@ -402,5 +402,207 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section03": [
+        {
+            "id": 1,
+            "word": "payment",
+            "sentence": "make an online payment",
+            "jp_sentence": "オンラインの支払いをする",
+            "category01": "名",
+            "desc01": "支払い",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "budget",
+            "sentence": "this year's budget",
+            "jp_sentence": "今年の予算",
+            "category01": "名",
+            "desc01": "予算",
+            "category02": "動",
+            "desc02": "予算に計上する"
+        },
+        {
+            "id": 3,
+            "word": "application",
+            "sentence": "fill out an application",
+            "jp_sentence": "応募書類に記入する",
+            "category01": "名",
+            "desc01": "応募書類、応募、申請",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "contract",
+            "sentence": "before signing a contract",
+            "jp_sentence": "契約に書影する前に",
+            "category01": "名",
+            "desc01": "契約（書）",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "management",
+            "sentence": "a management seminar",
+            "jp_sentence": "経営セミナー",
+            "category01": "名",
+            "desc01": "経営（陣）、管理",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "performance",
+            "sentence": "an employee's performance",
+            "jp_sentence": "従業員の成績",
+            "category01": "名",
+            "desc01": "業績、仕事ぶり、性能、公演",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "pleased",
+            "sentence": "We are pleased with the final result",
+            "jp_sentence": "最終結果に満足している",
+            "category01": "形",
+            "desc01": "喜んで、満足して",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "confirm",
+            "sentence": "confirm a payment",
+            "jp_sentence": "支払いを確認する",
+            "category01": "動",
+            "desc01": "確認する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "award",
+            "sentence": "awards ceremony",
+            "jp_sentence": "授与式",
+            "category01": "名",
+            "desc01": "賞",
+            "category02": "動",
+            "desc02": "授与する"
+        },
+        {
+            "id": 10,
+            "word": "clothing",
+            "sentence": "a clothing store",
+            "jp_sentence": "衣料品店",
+            "category01": "名",
+            "desc01": "衣類",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "display",
+            "sentence": "products on display",
+            "jp_sentence": "展示されている製品",
+            "category01": "名",
+            "desc01": "展示",
+            "category02": "動",
+            "desc02": "展示する"
+        },
+        {
+            "id": 12,
+            "word": "candidate",
+            "sentence": "a successfull candidate",
+            "jp_sentence": "合格した候補者",
+            "category01": "名",
+            "desc01": "候補者",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "state",
+            "sentence": "What is stated about the hotel",
+            "jp_sentence": "ホテルについて何が述べられていますか",
+            "category01": "動",
+            "desc01": "述べる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "exhibit",
+            "sentence": "a museum exhibit",
+            "jp_sentence": "博物館の展示物",
+            "category01": "名",
+            "desc01": "展示物、展示会",
+            "category02": "動",
+            "desc02": "展示する"
+        },
+        {
+            "id": 15,
+            "word": "session",
+            "sentence": "a Q&A session",
+            "jp_sentence": "質疑応答の時間",
+            "category01": "名",
+            "desc01": "時間、集まり",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "note",
+            "sentence": "Please note that prices may change",
+            "jp_sentence": "値段は変更になる場合があるので、注意してください",
+            "category01": "動",
+            "desc01": "注意する、述べる",
+            "category02": "名",
+            "desc02": "メモ"
+        },
+        {
+            "id": 17,
+            "word": "process",
+            "sentence": "process an order",
+            "jp_sentence": "注文を処理する",
+            "category01": "動",
+            "desc01": "処理する",
+            "category02": "名",
+            "desc02": "プロセス、過程、処理"
+        },
+        {
+            "id": 18,
+            "word": "instruction",
+            "sentence": "Please read all the instruction",
+            "jp_sentence": "説明書を全てお読みください",
+            "category01": "名",
+            "desc01": "説明書、説明、指示",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "membership",
+            "sentence": "sign up for membership",
+            "jp_sentence": "会員登録する",
+            "category01": "名",
+            "desc01": "会員（であること）、会員資格、会員数",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 20,
+            "word": "agency",
+            "sentence": "a travel agency",
+            "jp_sentence": "旅行代理店",
+            "category01": "名",
+            "desc01": "代理店、機関",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
