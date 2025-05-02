@@ -19,3 +19,7 @@ img {
   width: 100%;
   vertical-align: middle;
 }
+main {
+  max-width: 768px;
+  margin: auto;
+}

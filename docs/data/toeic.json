@@ -604,5 +604,409 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section04": [
+        {
+            "id": 1,
+            "word": "based",
+            "sentence": "a Seattle based company",
+            "jp_sentence": "シアトルに拠点を置く",
+            "category01": "形",
+            "desc01": "拠点のある、基づく",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "facility",
+            "sentence": "a research facility",
+            "jp_sentence": "研究施設",
+            "category01": "名",
+            "desc01": "施設",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "advance",
+            "sentence": "advance notice",
+            "jp_sentence": "事前の告知",
+            "category01": "形",
+            "desc01": "先行した、事前の",
+            "category02": "名",
+            "desc02": "進捗、前進"
+        },
+        {
+            "id": 4,
+            "word": "committee",
+            "sentence": "join a committee",
+            "jp_sentence": "委員会に入る",
+            "category01": "名",
+            "desc01": "委員会",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "successful",
+            "sentence": "The event was successful",
+            "jp_sentence": "そのイベントは成功だった",
+            "category01": "形",
+            "desc01": "成功した、うまくいく",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "excellent",
+            "sentence": "excellent service",
+            "jp_sentence": "素晴らしいサービス",
+            "category01": "形",
+            "desc01": "素晴らしい",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "industry",
+            "sentence": "the fasion industry",
+            "jp_sentence": "ファッション業界",
+            "category01": "名",
+            "desc01": "産業、業界",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "fee",
+            "sentence": "pay a late fee",
+            "jp_sentence": "遅延料金を払う",
+            "category01": "名",
+            "desc01": "料金",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "accept",
+            "sentence": "accept an offer",
+            "jp_sentence": "オファーを受け入れる",
+            "category01": "動",
+            "desc01": "受け入れる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "upcoming",
+            "sentence": "prepare for an unpcoming event",
+            "jp_sentence": "今度のイベントの準備をする",
+            "category01": "形",
+            "desc01": "今度の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "latest",
+            "sentence": "Haruki Murakami's latest novel",
+            "jp_sentence": "村上春樹の最新の小説",
+            "category01": "形",
+            "desc01": "最新の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "submit",
+            "sentence": "submit a report",
+            "jp_sentence": "レポートを提出する",
+            "category01": "動",
+            "desc01": "提出する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "transportation",
+            "sentence": "use public transportation",
+            "jp_sentence": "公共の交通機関を利用する",
+            "category01": "名",
+            "desc01": "輸送手段",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "resume",
+            "sentence": "send a resume",
+            "jp_sentence": "履歴書を送る",
+            "category01": "名",
+            "desc01": "履歴書",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "exective",
+            "sentence": "a company exective",
+            "jp_sentence": "会社の重役",
+            "category01": "名",
+            "desc01": "重役",
+            "category02": "形",
+            "desc02": "重役（用）の、高級な"
+        },
+        {
+            "id": 16,
+            "word": "introduce",
+            "sentence": "introduce a new line of products",
+            "jp_sentence": "新たな商品ラインを導入する",
+            "category01": "動",
+            "desc01": "導入する、紹介する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "previous",
+            "sentence": "have no previous experience",
+            "jp_sentence": "以前の経験がない",
+            "category01": "形",
+            "desc01": "前の、以前の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "proposal",
+            "sentence": "review a proposal",
+            "jp_sentence": "提案に目を通す",
+            "category01": "名",
+            "desc01": "提案、提案書",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "supply",
+            "sentence": "office supplys",
+            "jp_sentence": "オフィス用品",
+            "category01": "名",
+            "desc01": "必需品",
+            "category02": "動",
+            "desc02": "共有する"
+        },
+        {
+            "id": 20,
+            "word": "enclose",
+            "sentence": "My resuem is enclosed",
+            "jp_sentence": "履歴書を同封いたします",
+            "category01": "動",
+            "desc01": "同封する、囲む",
+            "category02": "",
+            "desc02": ""
+        }
+    ],
+    "section05": [
+        {
+            "id": 1,
+            "word": "policy",
+            "sentence": "returns policy",
+            "jp_sentence": "返品規定",
+            "category01": "名",
+            "desc01": "規定、方針",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "register",
+            "sentence": "register for employee training",
+            "jp_sentence": "社員研修に登録する",
+            "category01": "動",
+            "desc01": "登録する",
+            "category02": "名",
+            "desc02": "レジ"
+        },
+        {
+            "id": 3,
+            "word": "arrange",
+            "sentence": "arrange a meeting",
+            "jp_sentence": "会議の手配をする",
+            "category01": "動",
+            "desc01": "手配する、並べる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "bill",
+            "sentence": "recieve a bill",
+            "jp_sentence": "委員会に入る",
+            "category01": "名",
+            "desc01": "請求書",
+            "category02": "動",
+            "desc02": "請求書を送る"
+        },
+        {
+            "id": 5,
+            "word": "hire",
+            "sentence": "hire an assistant",
+            "jp_sentence": "アシスタントを雇う",
+            "category01": "動",
+            "desc01": "雇う",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "approve",
+            "sentence": "approve a plan",
+            "jp_sentence": "計画を承認する",
+            "category01": "動",
+            "desc01": "承認する、賛成する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "conduct",
+            "sentence": "conduct a survey",
+            "jp_sentence": "アンケート調査を行う",
+            "category01": "動",
+            "desc01": "実行する、実施する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "fee",
+            "sentence": "pay a late fee",
+            "jp_sentence": "遅延料金を払う",
+            "category01": "名",
+            "desc01": "料金",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "oppotunity",
+            "sentence": "an oppotunity to work with you",
+            "jp_sentence": "あなたとお仕事をする機会",
+            "category01": "名",
+            "desc01": "機会、チャンス",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "corporate",
+            "sentence": "a corporate trainer",
+            "jp_sentence": "企業のトレーナー",
+            "category01": "形",
+            "desc01": "企業の、法人の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "warranty",
+            "sentence": "a tree-year warranty",
+            "jp_sentence": "3年保証",
+            "category01": "名",
+            "desc01": "保証、保証書",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "necessary",
+            "sentence": "neccessary forms",
+            "jp_sentence": "必要な用紙",
+            "category01": "形",
+            "desc01": "必要な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "reserve",
+            "sentence": "reserve a room at a hotel",
+            "jp_sentence": "ホテルの部屋を予約する",
+            "category01": "動",
+            "desc01": "予約する、確保する",
+            "category02": "名",
+            "desc02": "蓄え"
+        },
+        {
+            "id": 14,
+            "word": "resident",
+            "sentence": "local residents",
+            "jp_sentence": "地元の住民",
+            "category01": "名",
+            "desc01": "住民、住人",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "create",
+            "sentence": "create a new logo",
+            "jp_sentence": "新しいロゴを作り出す",
+            "category01": "動",
+            "desc01": "創造する、作り出す",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "inform",
+            "sentence": "We are happy to inform you that",
+            "jp_sentence": "〜をあなたに知らせることができて嬉しい",
+            "category01": "動",
+            "desc01": "知らせる、影響を与える",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "allow",
+            "sentence": "allow customers to pay online",
+            "jp_sentence": "顧客がオンラインで支払うことを可能にする",
+            "category01": "動",
+            "desc01": "許す、可能にする",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "mention",
+            "sentence": "What problem does the man mention",
+            "jp_sentence": "男性はどんな問題について述べていますか。",
+            "category01": "動",
+            "desc01": "述べる、言及する",
+            "category02": "名",
+            "desc02": "言及"
+        },
+        {
+            "id": 19,
+            "word": "appreciate",
+            "sentence": "I really appreciate your help",
+            "jp_sentence": "助けていただいて本当に感謝しています。",
+            "category01": "動",
+            "desc01": "感謝する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 20,
+            "word": "replcaement",
+            "sentence": "replacement parts",
+            "jp_sentence": "交換部品",
+            "category01": "名",
+            "desc01": "交換、交換品、後任",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
