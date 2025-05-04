@@ -6,12 +6,16 @@ function Question({sectionNum}) {
     /* *********************************
         local storage
     ********************************* */
-   const keyName = "section";
+   const lsItemName = "section";
+   const questonConfigItemName = "questionConfig";
+   const [displayConfig, setDisplayConfig] = useState(false);
     // lsにページ番号を保存
     useEffect(() => {
-        if (!lsObj.connect) return;
+        if (!lsObj.connect()) return;
 
-        lsObj.set(keyName, sectionNum);
+        lsObj.set(lsItemName, sectionNum);
+        const configObj = JSON.parse(lsObj.get(questonConfigItemName));
+        setDisplayConfig(configObj.displayType);
     }, [])
 
     // ページに遷移したらURL書き換えと履歴を追加
@@ -23,14 +27,15 @@ function Question({sectionNum}) {
         history.back();
         location.href = rootPath;
         
-        lsObj.delete(keyName);
+        lsObj.delete(lsItemName);
     })
 
     // ×ボタン押下時のイベント
     const deletePageLog = () => {
-        lsObj.delete(keyName);
+        lsObj.delete(lsItemName);
         location.href = rootPath;
     }
+    
 
     /* *********************************
         get json data
@@ -95,9 +100,19 @@ function Question({sectionNum}) {
     /* *********************************
         create html
     ********************************* */
-    // 問題のhtml作成
+    // create question html
     const listHtml = questionList.map((item, index) => {
-        // 答えのリストを作成
+        // create title
+        const questionTitleHtml = !displayConfig || displayConfig === "type01" 
+        ? 
+        <h2 className="question__title">{item.word}</h2>
+        :
+        <h2 className="question__title">
+            <span className="question__title--jp">{item.jp_sentence}</span>
+            <span className="question__title--en">{item.sentence02}</span>
+        </h2>;
+
+        // create answer list
         const answerIndex = [];
         let beforeNum = 0;
         let limitedNum = 4;
@@ -118,25 +133,35 @@ function Question({sectionNum}) {
             }
         }
 
-        // 解答のhtml
+        // create answer ans review
         const answerHtml = answerIndex.map((num, index) => {
             return (
                 <li className="question__answer-item" key={index}>
-                    <button 
-                        className="question__answer-button" 
-                        data-answer-id={questionList[num].id} 
-                        onClick={checkAnswer}>
-                            <span className="u-mr-3">{questionList[num].desc01 && questionList[num].desc01}</span>
-                            <span>{questionList[num].desc02 && questionList[num].desc02}</span>
-                    </button>
+                    {!displayConfig || displayConfig === "type01"
+                        ? 
+                        <button 
+                            className="question__answer-button" 
+                            data-answer-id={questionList[num].id} 
+                            onClick={checkAnswer}>
+                                <span className="u-mr-3">{questionList[num].desc01 && questionList[num].desc01}</span>
+                                <span>{questionList[num].desc02 && questionList[num].desc02}</span>
+                        </button> 
+                        :
+                        <button 
+                            className="question__answer-button" 
+                            data-answer-id={questionList[num].id} 
+                            onClick={checkAnswer}>
+                                {questionList[num].word}
+                        </button> 
+                    }
                 </li>
             )
         });
 
-        // 全体のhtmlを作成
+        // merge html data
         return (
         <li className="question__item" ref={questionItemRef.current[index]} key={item.id} data-question-id={item.id}>
-             <h2 className="question__title">{item.word}</h2>
+             {questionTitleHtml}
             <ul>
                 {answerHtml}
             </ul>
@@ -146,7 +171,7 @@ function Question({sectionNum}) {
 
     const reviewHtml = questionList.map((item, index) => {
         return (
-            <div className="review" ref={reviewItemRef.current[index]}>
+            <div className="review" key={index} ref={reviewItemRef.current[index]}>
                 <div className="review__inner">
                     <h2 className="review__title">{item.word}</h2>
                     <dl className="review__item">
@@ -171,7 +196,6 @@ function Question({sectionNum}) {
     return(
         <>
             <div className="main-container">
-                <div className="question__title"></div>
                 <ul className="question__list">
                     {listHtml}
                 </ul>

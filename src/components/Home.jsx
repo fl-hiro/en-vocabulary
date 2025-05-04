@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import { getWordData } from "./RequestData";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { fas } from '@fortawesome/free-solid-svg-icons';
 
 function Home({stateProp}) {
 
@@ -50,6 +52,11 @@ function Home({stateProp}) {
                 <ul className="main-container__list">
                     {html}
                 </ul>
+            </div>
+            <div className="config">
+                <button className="config__button" onClick={() => stateProp("config")}>
+                    <FontAwesomeIcon icon={fas.faGear} color="#fff" className="config__icon"/>
+                </button>
             </div>
         </>
     )

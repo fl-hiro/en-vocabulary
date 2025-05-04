@@ -1,6 +1,7 @@
 import Header from '@/components/Header'
 import Home from '@/components/Home'
 import Question from './components/Question'
+import AppConfig from './components/AppConfig'
 import { useEffect, useState } from 'react'
 import { lsObj } from '@/components/LocalStorage.js'
 import '@/App.css'
@@ -24,7 +25,7 @@ function App() {
       <Header />
 
       <main className='main'>
-        {!pageStutas ? <Home stateProp={setPageStutas}/> : <Question sectionNum={pageStutas}/>}
+        {!pageStutas ? <Home stateProp={setPageStutas}/> : pageStutas === "config" ? <AppConfig /> : <Question sectionNum={pageStutas}/>}
       </main>
     </>
   )
