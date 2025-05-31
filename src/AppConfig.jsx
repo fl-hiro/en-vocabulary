@@ -9,7 +9,8 @@ function AppConfig() {
         if (!lsObj.connect()) return;
 
         const questionConfig = JSON.parse(lsObj.get(lsItemName));
-        !questionConfig.displayType || questionConfig.displayType === "type01" ? setConfigStutas(false) : setConfigStutas(true);
+        const questionConfigValue = !questionConfig || questionConfig === null ? "type01" : questionConfig.display_type;
+        questionConfigValue === "type01" ? setConfigStutas(false) : setConfigStutas(true);
     }, []);
 
     const changeQuestionConfig = (e) => {
@@ -17,11 +18,15 @@ function AppConfig() {
 
         const isCheck = e.target.checked;
         const configValue = {
-            displayType: isCheck ? "type02" : "type01"
+            display_type: isCheck ? "type02" : "type01"
         }
 
         lsObj.set(lsItemName, JSON.stringify(configValue));
         setConfigStutas(isCheck);
+    }
+
+    const blowsBack = () => {
+        history.back();
     }
 
     return (
@@ -33,6 +38,9 @@ function AppConfig() {
                         <label htmlFor="radio01" className="config-info__label">Change display question</label>
                     </li>
                 </ul>
+                <div className="config-close">
+                    <button className="config-close__button" onClick={blowsBack}>back</button>
+                </div>
             </div>
         </>
     )

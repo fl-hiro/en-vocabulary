@@ -9,7 +9,7 @@ export const lsObj = {
     },
     get: (key) => {
         try {
-            return localStorage.getItem(key) || "";
+            return localStorage.getItem(key) || "null";
         } catch(e) {
             console.log(e);
             return false;

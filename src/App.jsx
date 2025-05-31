@@ -1,32 +1,25 @@
 import Header from '@/components/Header'
-import Home from '@/components/Home'
-import Question from './components/Question'
-import AppConfig from './components/AppConfig'
-import { useEffect, useState } from 'react'
 import { lsObj } from '@/components/LocalStorage.js'
 import '@/App.css'
+import Home from '@/Home';
+import Section from '@/Section';
+import Question from '@/Question';
+import AppConfig from '@/AppConfig';
+
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
-
-  // 問題を解くページの番号を格納
-  const [pageStutas, setPageStutas] = useState("");
-
-  // 問題を解いている途中のリロード対応
-  useEffect(() => {
-    if (!lsObj.connect) return;
-    const pageData = lsObj.get("section");
-
-    if (!pageData) return;
-    setPageStutas(pageData);
-  }, [])
-
   return (
     <>
       <Header />
-
-      <main className='main'>
-        {!pageStutas ? <Home stateProp={setPageStutas}/> : pageStutas === "config" ? <AppConfig /> : <Question sectionNum={pageStutas}/>}
-      </main>
+      <BrowserRouter>
+      <Routes>
+        <Route path={`/`} element={<Home />} />
+        <Route path={`/Section`} element={<Section />} />
+        <Route path={`/Question`} element={<Question />} />
+        <Route path={`/AppConfig`} element={<AppConfig />} />
+      </Routes>
+    </BrowserRouter>
     </>
   )
 }
