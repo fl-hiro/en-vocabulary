@@ -9,15 +9,16 @@ import AppConfig from '@/AppConfig';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
+  const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
   return (
     <>
       <Header />
       <BrowserRouter>
       <Routes>
-        <Route path={`/`} element={<Home />} />
-        <Route path={`/Section`} element={<Section />} />
-        <Route path={`/Question`} element={<Question />} />
-        <Route path={`/AppConfig`} element={<AppConfig />} />
+        <Route path={`${basePath}/`} element={<Home />} />
+        <Route path={`${basePath}/Section`} element={<Section />} />
+        <Route path={`${basePath}/Question`} element={<Question />} />
+        <Route path={`${basePath}/AppConfig`} element={<AppConfig />} />
       </Routes>
     </BrowserRouter>
     </>

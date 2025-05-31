@@ -29,7 +29,6 @@ function Home() {
     <>
 
       <main className='main'>
-        {/* {!pageStutas ? <Home stateProp={setPageStutas}/> : pageStutas === "config" ? <AppConfig /> : <Question sectionNum={pageStutas}/>} */}
         <div className="main-container">
             <ul className="main-container__list">
               <li className="main-container__item">
