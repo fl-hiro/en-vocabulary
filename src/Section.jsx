@@ -7,6 +7,7 @@ import { useEffect, useState, useRef, createRef } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
 function Section() {
+    const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
     const locationState = useLocation();
  
     // 単語のjsonデータ（TOEIC）を格納
@@ -35,7 +36,6 @@ function Section() {
     useEffect(() => {
         const menuState = locationState.state.menu;
         setEnglishMenu(menuState);
-        const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
         getWordData(`${basePath}/data/${menuState}.json`).then((data) => {
             if(!(data && Object.keys(data).length > 0)) return;
             const sectionData =  Object.keys(data);
@@ -49,7 +49,7 @@ function Section() {
     const navigate = useNavigate();
     const moveQuestion = (e) => {
         const sectionNum = e.currentTarget.dataset.sectionNum;
-        navigate("/Question", {
+        navigate(`${basePath}/Question`, {
             state: {
                 menu: englishMenu,
                 section: sectionNum
@@ -57,10 +57,10 @@ function Section() {
         });
     };
     const moveHome = () => {
-        navigate("/");
+        navigate(`${basePath}/`);
     };
     const moveConfig = () => {
-        navigate("/AppConfig");
+        navigate(`${basePath}/AppConfig`);
     };
 
     /* *********************************

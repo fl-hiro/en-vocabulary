@@ -4,11 +4,11 @@ import { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 function Incorrect() {
-
+    const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
     /* move link */
     const navigate = useNavigate();
     const moveQuestion = () => {
-        navigate("/Question", {
+        navigate(`${basePath}/Question`, {
             state: {
                 menu: "incorrectList",
                 section: "",

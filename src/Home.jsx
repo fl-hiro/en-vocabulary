@@ -5,24 +5,24 @@ import { fas } from '@fortawesome/free-solid-svg-icons';
 import { useNavigate } from 'react-router-dom'
 
 function Home() {
-
+  const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
   const navigate = useNavigate();
   const moveTlevel1 = () => {
-    navigate("/Section", {
+    navigate(`${basePath}/Section`, {
         state: {
             menu: "toeic1"
         }
     })
   }
   const moveTlevel2 = () => {
-    navigate("/Section", {
+    navigate(`${basePath}/Section`, {
         state: {
             menu: "toeic2"
         }
     })
   }
   const moveConfig = () => {
-    navigate("/AppConfig");
+    navigate(`${basePath}/AppConfig`);
   }
 
   return (

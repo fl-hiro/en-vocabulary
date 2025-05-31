@@ -4,6 +4,7 @@ import { lsObj } from '@/components/LocalStorage.js';
 import { getWordData } from "./components/RequestData";
 
 function Question() {
+    const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
     /* *********************************
         get section number
     ********************************* */
@@ -106,7 +107,6 @@ function Question() {
 
     // 単語のjsonデータを取得
     useEffect(() => {
-        const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
         const englishMenu = locationState.state.menu;
         setMenuName(englishMenu);
         if (englishMenu === "incorrectList") {
@@ -204,9 +204,9 @@ function Question() {
         pageNum < 19 ? setProgressData() : "";
 
         if (menuName === "incorrectList") {
-            return location.href = "/";
+            return location.href = `${basePath}/`;
         } else {
-            return navigate("/Section", {
+            return navigate(`${basePath}/Section`, {
                 state: {
                     menu: menuName
                 }
