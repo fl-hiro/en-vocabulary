@@ -1213,6 +1213,7 @@
             "id": 10,
             "word": "exhibition",
             "sentence": "an art exhibition",
+            "sentence02": "an art ___",
             "jp_sentence": "美術展",
             "category01": "名",
             "desc01": "展示会、展示物、展示",
@@ -1234,6 +1235,7 @@
             "id": 12,
             "word": "organization",
             "sentence": "lead an organization",
+            "sentenceo2": "lead an ___",
             "jp_sentence": "組織を率いる",
             "category01": "名",
             "desc01": "団体、会社、組織（化）",
@@ -1327,6 +1329,228 @@
             "desc01": "（意識等を）〜集中させる、重点を置く",
             "category02": "名",
             "desc02": "焦点、集中"
+        }
+    ],
+    "section07": [
+        {
+            "id": 1,
+            "word": "participate",
+            "sentence": "participate in the workshop",
+            "sentence02": "___ in the workshop",
+            "jp_sentence": "セミナーに参加する",
+            "category01": "動",
+            "desc01": "参加する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "cause",
+            "sentence": "the cause of the problem",
+            "sentence02": "the ___ of the problem",
+            "jp_sentence": "問題の原因",
+            "category01": "名",
+            "desc01": "原因、大義",
+            "category02": "動",
+            "desc02": "引き起こす"
+        },
+        {
+            "id": 3,
+            "word": "padegreeid",
+            "sentence": "a degree in journalism",
+            "sentence02": "a ___ in journalism",
+            "jp_sentence": "ジャーナリズムの学位",
+            "category01": "名",
+            "desc01": "学位、程度、（温度や角度の単位）度",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "directly",
+            "sentence": "purchase directly from a Web site",
+            "sentence02": "purchase ___ from a Web site",
+            "jp_sentence": "残念なことに、いくつか問題があります。",
+            "category01": "副",
+            "desc01": "直接",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "host",
+            "sentence": "the host of a television show",
+            "sentence02": "the ___ of a television show",
+            "jp_sentence": "テレビ番組の司会者",
+            "category01": "名",
+            "desc01": "司会者",
+            "category02": "動",
+            "desc02": "主催する"
+        },
+        {
+            "id": 6,
+            "word": "expert",
+            "sentence": "an expert in the field",
+            "sentence02": "an ___ in the field",
+            "jp_sentence": "その分野の専門家",
+            "category01": "名",
+            "desc01": "専門家",
+            "category02": "形",
+            "desc02": "専門的な"
+        },
+        {
+            "id": 7,
+            "word": "impress",
+            "sentence": "We are inpressed by your knowledge",
+            "sentence02": "We are ___ by your knowledge",
+            "jp_sentence": "我々はあなたの知識に感心した",
+            "category01": "動",
+            "desc01": "感心させる、好印象を与える",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "mainly",
+            "sentence": "work mainly in the steel industry",
+            "sentence03": "work ___ in the steel industry",
+            "jp_sentence": "主に鉄鋼業界で働く",
+            "category01": "副",
+            "desc01": "主に",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "suggestion",
+            "sentence": "make suggestions",
+            "sentence02": "make ___",
+            "jp_sentence": "提案を行う",
+            "category01": "名",
+            "desc01": "提案",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "supplier",
+            "sentence": "relationships with suppliers",
+            "sentence02": "relationships with ___",
+            "jp_sentence": "納入業者との関係",
+            "category01": "名",
+            "desc01": "納入業者、供給業者",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "document",
+            "sentence": "an important document",
+            "sentence02": "an important ___",
+            "jp_sentence": "重要な書類",
+            "category01": "名",
+            "desc01": "書類",
+            "category02": "動",
+            "desc02": "（文書や映像等で）記録する"
+        },
+        {
+            "id": 12,
+            "word": "remind",
+            "sentence": "remind employees about the policy",
+            "sentence02": "___ employees about the policy",
+            "jp_sentence": "従業員に規則に関して再確認する",
+            "category01": "動",
+            "desc01": "再確認する、念押しする",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "require",
+            "sentence": "Workers are required to wear uniform",
+            "sentence02": "Workers are ___ to wear uniform",
+            "jp_sentence": "作業員は制服の着用を求められます",
+            "category01": "動",
+            "desc01": "求める、要求する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "representative",
+            "sentence": "a sales representative",
+            "sentence02": "a sales ___",
+            "jp_sentence": "営業担当者",
+            "category01": "名",
+            "desc01": "担当者、代表者",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "packaging",
+            "sentence": "the packaging area",
+            "sentence02": "the ___ area",
+            "jp_sentence": "梱包エリア",
+            "category01": "名",
+            "desc01": "梱包、パッケージ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "description",
+            "sentence": "a job description",
+            "sentence02": "a job ___",
+            "jp_sentence": "業務内容の説明",
+            "category01": "名",
+            "desc01": "説明、記述、描写",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "property",
+            "sentence": "a property manager",
+            "sentence02": "a ___ manager",
+            "jp_sentence": "不動産の管理者",
+            "category01": "名",
+            "desc01": "不動産、資産",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "extension",
+            "sentence": "Call me at extension 4649",
+            "sentence02": "Call me at ___ 4649",
+            "jp_sentence": "内戦4649にお電話ください",
+            "category01": "名",
+            "desc01": "内戦、延長",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "inquire",
+            "sentence": "inquire about a job",
+            "sentence02": "___ about a job",
+            "jp_sentence": "仕事について問い合わせる",
+            "category01": "動",
+            "desc01": "尋ねる、問い合わせる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 20,
+            "word": "merchandise",
+            "sentence": "display merchandise",
+            "sentence02": "display ___",
+            "jp_sentence": "商品を陳列する",
+            "category01": "名",
+            "desc01": "商品",
+            "category02": "",
+            "desc02": ""
         }
     ]
 }
