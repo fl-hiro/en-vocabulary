@@ -7,7 +7,8 @@ import { useEffect, useState, useRef, createRef } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
 function Section() {
-    const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
+    const jsonBasePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
+    const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "";
     const locationState = useLocation();
  
     // 単語のjsonデータ（TOEIC）を格納
@@ -36,7 +37,7 @@ function Section() {
     useEffect(() => {
         const menuState = locationState.state.menu;
         setEnglishMenu(menuState);
-        getWordData(`${basePath}/data/${menuState}.json`).then((data) => {
+        getWordData(`${jsonBasePath}/data/${menuState}.json`).then((data) => {
             if(!(data && Object.keys(data).length > 0)) return;
             const sectionData =  Object.keys(data);
             setSectionList(sectionData);

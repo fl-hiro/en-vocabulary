@@ -5,7 +5,7 @@ import { fas } from '@fortawesome/free-solid-svg-icons';
 import { useNavigate } from 'react-router-dom'
 
 function Home() {
-  const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
+  const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "";
   const navigate = useNavigate();
   const moveTlevel1 = () => {
     navigate(`${basePath}/Section`, {

@@ -65,12 +65,15 @@
   z-index: 0;
 }
 
-.config {
+.config, .home {
   position: fixed;
   width: 40px;
   height: 40px;
   bottom: 15px;
-  right: 15px;
+  right: 10px;
+}
+.config {
+  bottom: 15px;
 }
 .config__button {
   width: 100%;
@@ -85,11 +88,7 @@
   vertical-align: middle;
 }
 .home {
-  position: fixed;
-  width: 40px;
-  height: 40px;
   bottom: 65px;
-  right: 15px;
 }
 .home__button {
   width: 100%;
@@ -102,6 +101,12 @@
   width: 50%;
   height: 50%;
   vertical-align: middle;
+}
+
+@media screen and (min-width: 768px) {
+  .home, .config {
+    right: calc(15px + ((100% - 768px) / 2));
+  }
 }
 
 /* ***************************
@@ -458,6 +463,13 @@
   color: #fff;
   top: -8px;
   right: -8px;
+}
+
+@media screen and (min-width: 768px) {
+  .incorrect-nav {
+    width: calc(80% - (100% - 768px));
+    left: calc(10px + ((100% - 768px) / 2));
+  }
 }
 
 /* ***************************

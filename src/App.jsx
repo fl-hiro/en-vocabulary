@@ -9,7 +9,7 @@ import AppConfig from '@/AppConfig';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
-  const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
+  const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "";
   return (
     <>
       <Header />

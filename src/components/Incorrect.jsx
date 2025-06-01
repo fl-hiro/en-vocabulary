@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 function Incorrect() {
-    const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
+    const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "";
     /* move link */
     const navigate = useNavigate();
     const moveQuestion = () => {

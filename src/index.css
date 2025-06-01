@@ -23,3 +23,6 @@ main {
   max-width: 768px;
   margin: auto;
 }
+button {
+  cursor: pointer;
+}

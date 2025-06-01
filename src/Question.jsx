@@ -4,7 +4,8 @@ import { lsObj } from '@/components/LocalStorage.js';
 import { getWordData } from "./components/RequestData";
 
 function Question() {
-    const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
+    const jsonBasePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
+    const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "";
     /* *********************************
         get section number
     ********************************* */
@@ -113,7 +114,7 @@ function Question() {
             const incorrectData = locationState.state.data;
             setQuestionList(incorrectData);
         } else {
-            getWordData(`${basePath}/data/${englishMenu}.json`).then((data) => {
+            getWordData(`${jsonBasePath}/data/${englishMenu}.json`).then((data) => {
                 if(!(data && Object.keys(data).length > 0)) return;
                 const targetSection = `section${sectionNum}`;
                 const sectionData =  data[targetSection];
