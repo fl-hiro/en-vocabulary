@@ -1552,5 +1552,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section08": [
+        {
+            "id": 1,
+            "word": "highly",
+            "sentence": "a highly sucessful business",
+            "sentence02": "a ___ sucessful business",
+            "jp_sentence": "非常に成功しているビジネス",
+            "category01": "副",
+            "desc01": "非常に",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "result",
+            "sentence": "The campaign resulted in success",
+            "sentence02": "The campaign ___ in success",
+            "jp_sentence": "そのキャンペーンは成功という結果になった。",
+            "category01": "動",
+            "desc01": "生じる、終わる",
+            "category02": "名",
+            "desc02": "結果"
+        },
+        {
+            "id": 3,
+            "word": "assistance",
+            "sentence": "Thank you for your assistance",
+            "sentence02": "Thank you for your ___",
+            "jp_sentence": "ご支援ありがとうございます。",
+            "category01": "名",
+            "desc01": "支援、援助",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "encourage",
+            "sentence": "Employees are encouraged to attend the event",
+            "sentence02": "Employees are ___ to attend the event",
+            "jp_sentence": "従業員がイベントに参加することを奨励します。",
+            "category01": "動",
+            "desc01": "奨励する、促す",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "individual",
+            "sentence": "each individual in the company",
+            "sentence02": "each ___ in the company",
+            "jp_sentence": "会社の一人一人の個人",
+            "category01": "名",
+            "desc01": "個人",
+            "category02": "形",
+            "desc02": "個人の、個別の"
+        },
+        {
+            "id": 6,
+            "word": "laboratory",
+            "sentence": "when entering the laboratory",
+            "sentence02": "when entering the ___",
+            "jp_sentence": "研究所に入る時",
+            "category01": "名",
+            "desc01": "研究所、実験室",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "consider",
+            "sentence": "consider working in Japan",
+            "sentence02": "___ working in Japan",
+            "jp_sentence": "日本での勤務を検討する",
+            "category01": "動",
+            "desc01": "考える、検討する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "headquarters",
+            "sentence": "move the headquarters to Boston",
+            "sentence03": "move the ___ to Boston",
+            "jp_sentence": "本社をボストンに移転する",
+            "category01": "名",
+            "desc01": "本社",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "ship",
+            "sentence": "we are ready to ship your order",
+            "sentence02": "we are ready to ___ your order",
+            "jp_sentence": "注文を出荷する準備ができました。",
+            "category01": "動",
+            "desc01": "出荷する",
+            "category02": "名",
+            "desc02": "船"
+        },
+        {
+            "id": 10,
+            "word": "commercial",
+            "sentence": "commercial buildings",
+            "sentence02": "___ buildings",
+            "jp_sentence": "商業ビル",
+            "category01": "形",
+            "desc01": "商業（用）の、商業的な",
+            "category02": "名",
+            "desc02": "CM"
+        },
+        {
+            "id": 11,
+            "word": "device",
+            "sentence": "a medeical device",
+            "sentence02": "a medeical ___",
+            "jp_sentence": "重要な書類",
+            "category01": "名",
+            "desc01": "機器、装置",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "intended",
+            "sentence": "For whom is the notice intended",
+            "sentence02": "For whom is the notice ___",
+            "jp_sentence": "このお知らせは誰に向けられていますか？",
+            "category01": "形",
+            "desc01": "意図された、向けられた",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "brochure",
+            "sentence": "a product brochure",
+            "sentence02": "a product ___",
+            "jp_sentence": "製品パンフレット",
+            "category01": "名",
+            "desc01": "パンフレット",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "mail",
+            "sentence": "by ecpress mail",
+            "sentence02": "by ecpress ___",
+            "jp_sentence": "速達郵便で",
+            "category01": "名",
+            "desc01": "郵便物、郵便配達",
+            "category02": "動",
+            "desc02": "郵送する"
+        },
+        {
+            "id": 15,
+            "word": "prefer",
+            "sentence": "I prefer to work part-time",
+            "sentence02": "I ___ to work part-time",
+            "jp_sentence": "私はパートタイムで働く方が好きです。",
+            "category01": "動",
+            "desc01": "〜を（...よりも）好む",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "response",
+            "sentence": "I'm writing in response to your letter",
+            "sentence02": "I'm writing in ___ to your letter",
+            "jp_sentence": "お手紙へのお返事です",
+            "category01": "名",
+            "desc01": "返答、返事",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "region",
+            "sentence": "companies in the region",
+            "sentence02": "companies in the ___",
+            "jp_sentence": "その地域の会社",
+            "category01": "名",
+            "desc01": "不動産、資産",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "donation",
+            "sentence": "donations to a museum",
+            "sentence02": "___ to a museum",
+            "jp_sentence": "ミュージアムへの寄付",
+            "category01": "名",
+            "desc01": "寄付",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "quarter",
+            "sentence": "the third quarter",
+            "sentence02": "the third ___",
+            "jp_sentence": "第3四半期",
+            "category01": "名",
+            "desc01": "四半期",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 20,
+            "word": "agreement",
+            "sentence": "a rental agreement",
+            "sentence02": "a rental ___",
+            "jp_sentence": "賃貸契約書",
+            "category01": "名",
+            "desc01": "契約（書）、同意（書）、合意",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
