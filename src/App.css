@@ -150,6 +150,8 @@
   background-color: #fff;
   border: solid 2px #67AE93;
   border-radius: 8px;
+  font-size: 1.4rem;
+  color: #404040;
 }
 .question__answer-category {
   margin-right: 5px;
