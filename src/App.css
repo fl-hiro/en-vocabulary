@@ -49,6 +49,7 @@
   z-index: 1;
 }
 .main-container__item-title {
+  text-transform: capitalize;
   color: #404040;
 }
 .main-container__text {
