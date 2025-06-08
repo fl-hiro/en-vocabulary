@@ -72,6 +72,7 @@
   height: 40px;
   bottom: 15px;
   right: 10px;
+  z-index: 10;
 }
 .config {
   bottom: 15px;
@@ -442,6 +443,7 @@
   width: 75%;
   bottom: 15px;
   left: 10px;
+  z-index: 10;
 }
 .incorrect-nav__button {
   width: 100%;
