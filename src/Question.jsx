@@ -270,7 +270,7 @@ function Question() {
                             data-answer-id={questionList[num].id} 
                             onClick={checkAnswer}>
                                 <span className="u-mr-3">{questionList[num].desc01 && questionList[num].desc01}</span>
-                                <span>{questionList[num].desc02 && questionList[num].desc02}</span>
+                                <span>{questionList[num].desc02 && `、${questionList[num].desc02}`}</span>
                         </button> 
                         :
                         <button 
@@ -307,7 +307,7 @@ function Question() {
                     </dl>
                     <dl className="review__item">
                         <dt className="review__sub-title">Meaning</dt>
-                        <dd className="review__desc"><span className="review__desc-category">{item.category01}</span>{item.desc01}</dd>
+                        <dd className="review__desc">{item.category01 && <span className="review__desc-category">{item.category01}</span>}{item.desc01}</dd>
                         <dd className="review__desc">{item.category02 && <span className="review__desc-category">{item.category02}</span>}{item.desc02 && item.desc02}</dd>
                         
                     </dl>
