@@ -2812,7 +2812,7 @@
         {
             "id": 14,
             "word": "landscaping",
-            "sentence01": "a landscaping company",
+            "sentence": "a landscaping company",
             "sentence02": "a ___ company",
             "jp_sentence": "増援会社",
             "category01": "名",
@@ -3034,7 +3034,7 @@
         {
             "id": 14,
             "word": "overall",
-            "sentence01": "the overall bugget",
+            "sentence": "the overall bugget",
             "sentence02": "the ___ bugget",
             "jp_sentence": "全体の予算",
             "category01": "形",
@@ -3256,7 +3256,7 @@
         {
             "id": 14,
             "word": "aspect",
-            "sentence01": "every aspect of a project",
+            "sentence": "every aspect of a project",
             "sentence02": "every ___ of a project",
             "jp_sentence": "プロジェクトの全ての面",
             "category01": "名",
@@ -3478,7 +3478,7 @@
         {
             "id": 14,
             "word": "publish",
-            "sentence01": "publish a magazine",
+            "sentence": "publish a magazine",
             "sentence02": "___ a magazine",
             "jp_sentence": "雑誌を出版する",
             "category01": "動",
@@ -3700,7 +3700,7 @@
         {
             "id": 14,
             "word": "permit",
-            "sentence01": "a construction permit",
+            "sentence": "a construction permit",
             "sentence02": "a ___ permit",
             "jp_sentence": "建設許可証",
             "category01": "名",
@@ -3922,7 +3922,7 @@
         {
             "id": 14,
             "word": "income",
-            "sentence01": "high income",
+            "sentence": "high income",
             "sentence02": "high ___",
             "jp_sentence": "高い収入",
             "category01": "名",
@@ -4144,7 +4144,7 @@
         {
             "id": 14,
             "word": " committed",
-            "sentence01": "We are cimmitted to providing quality service.",
+            "sentence": "We are cimmitted to providing quality service.",
             "sentence02": "We are ___ to providing quality service.",
             "jp_sentence": "当社は質の高いサービスを提供することに年始んに取り組んでいます",
             "category01": "形",
@@ -4220,228 +4220,6 @@
         }
     ],
     "section20": [
-        {
-            "id": 1,
-            "word": "prove",
-            "sentence": "prove to be difficult",
-            "sentence02": "___ to be difficult",
-            "jp_sentence": "難しいとわかる",
-            "category01": "動",
-            "desc01": "わかる、判明する、証明する",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 2,
-            "word": "exact",
-            "sentence": "I can't remember the exact date.",
-            "sentence02": "I can't remember the ___ date.",
-            "jp_sentence": "正確な日付は思い出せません",
-            "category01": "形",
-            "desc01": "正確な",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 3,
-            "word": "gain",
-            "sentence": "gain pupularity",
-            "sentence02": "___ pupularity",
-            "jp_sentence": "そのシステムはとても複雑だ。",
-            "category01": "動",
-            "desc01": "得る",
-            "category02": "名",
-            "desc02": "増加、利益"
-        },
-        {
-            "id": 4,
-            "word": "labor",
-            "sentence": "labor costs",
-            "sentence02": "___ costs",
-            "jp_sentence": "人件費",
-            "category01": "名",
-            "desc01": "労働、労働者",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 5,
-            "word": "regard",
-            "sentence": "be widely regarded as",
-            "sentence02": "be widely ___ as",
-            "jp_sentence": "〜と広くみなされる",
-            "category01": "動",
-            "desc01": "みなす、評価する",
-            "category02": "名",
-            "desc02": "点"
-        },
-        {
-            "id": 6,
-            "word": "closely",
-            "sentence": "work closely with local businesses",
-            "sentence02": "work ___ with local businesses",
-            "jp_sentence": "地元の会社と密に仕事をする",
-            "category01": "副",
-            "desc01": "密に、注意深く",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 7,
-            "word": "deserve",
-            "sentence": "deserve a promotion",
-            "sentence02": "___ a promotion",
-            "jp_sentence": "昇進に値する",
-            "category01": "動",
-            "desc01": "値する",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 8,
-            "word": "identify",
-            "sentence": "identify problems",
-            "sentence02": "___ problems",
-            "jp_sentence": "問題を特定する",
-            "category01": "動",
-            "desc01": "特定する",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 9,
-            "word": "loyal",
-            "sentence": "loyal customers",
-            "sentence02": "___ customers",
-            "jp_sentence": "常連の顧客",
-            "category01": "形",
-            "desc01": "忠実な",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 10,
-            "word": "promising",
-            "sentence": "the most promising applicant",
-            "sentence02": "the most ___ applicant",
-            "jp_sentence": "最も有望な候補者",
-            "category01": "形",
-            "desc01": "有望な",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 11,
-            "word": "stress",
-            "sentence": "stress the importance of reading",
-            "sentence02": "___ the importance of reading",
-            "jp_sentence": "読書の重要性を強調する",
-            "category01": "動",
-            "desc01": " 強調する",
-            "category02": "名",
-            "desc02": "ストレス、強調"
-        },
-        {
-            "id": 12,
-            "word": "analyze",
-            "sentence": "analyze customer feedback",
-            "sentence02": "___ customer feedback",
-            "jp_sentence": "お客様の意見を分析する",
-            "category01": "動",
-            "desc01": "分析する",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 13,
-            "word": "commission",
-            "sentence": "The report was commissioned by Tex Corporation",
-            "sentence02": "The report was ___ by Tex Corporation",
-            "jp_sentence": "その報告書はテックス社から委託を受けたものだ",
-            "category01": "動",
-            "desc01": "委託する、委任する",
-            "category02": "名",
-            "desc02": "委員会、歩合"
-        },
-        {
-            "id": 14,
-            "word": " committed",
-            "sentence01": "We are cimmitted to providing quality service.",
-            "sentence02": "We are ___ to providing quality service.",
-            "jp_sentence": "当社は質の高いサービスを提供することに年始んに取り組んでいます",
-            "category01": "形",
-            "desc01": "熱心に取り組む、献身的に",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 15,
-            "word": "comparison",
-            "sentence": "a cost comparison",
-            "sentence02": "a cost ___",
-            "jp_sentence": "コストの比較",
-            "category01": "名",
-            "desc01": "比較",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 16,
-            "word": "component",
-            "sentence": "electronic components",
-            "sentence02": "electronic ___",
-            "jp_sentence": "電子部品",
-            "category01": "名",
-            "desc01": "部品",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 17,
-            "word": "enable",
-            "sentence": "enable staff to work from home",
-            "sentence02": "___ staff to work from home",
-            "jp_sentence": "スタッフが自宅で仕事をすることを可能にする",
-            "category01": "動",
-            "desc01": "可能にする",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 18,
-            "word": "enjoyable",
-            "sentence": "an enjoyable stay at a hotel",
-            "sentence02": "an ___ stay at a hotel",
-            "jp_sentence": "ホテルでの楽しい滞在",
-            "category01": "形",
-            "desc01": "楽しい",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 19,
-            "word": "existing",
-            "sentence": "existing customers",
-            "sentence02": "___ customers",
-            "jp_sentence": "従来の顧客",
-            "category01": "形",
-            "desc01": "従来の、既存の",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 20,
-            "word": "flyer",
-            "sentence": "post a flyer",
-            "sentence02": "post a ___",
-            "jp_sentence": "チラシを掲示する",
-            "category01": "名",
-            "desc01": "チラシ、（飛行機の）乗客",
-            "category02": "",
-            "desc02": ""
-        }
-    ],
-    "section21": [
         {
             "id": 1,
             "word": "proceed",
@@ -4588,7 +4366,7 @@
         {
             "id": 14,
             "word": "occasionally",
-            "sentence01": "I occasionally travel abroad.",
+            "sentence": "I occasionally travel abroad.",
             "sentence02": "I ___ travel abroad.",
             "jp_sentence": "私は時々海外に出張する。",
             "category01": "形",
@@ -4663,7 +4441,7 @@
             "desc02": ""
         }
     ],
-    "section22": [
+    "section21": [
         {
             "id": 1,
             "word": "face",
@@ -4810,7 +4588,7 @@
         {
             "id": 14,
             "word": "cashier",
-            "sentence01": "A woman is paying a cashier.",
+            "sentence": "A woman is paying a cashier.",
             "sentence02": "A woman is paying a ___.",
             "jp_sentence": "女性がレジ係に支払っている。",
             "category01": "名",
@@ -4885,7 +4663,7 @@
             "desc02": ""
         }
     ],
-    "section23": [
+    "section22": [
         {
             "id": 1,
             "word": "kneel",
@@ -5032,7 +4810,7 @@
         {
             "id": 14,
             "word": "glove",
-            "sentence01": "A woman is wearing gloves.",
+            "sentence": "A woman is wearing gloves.",
             "sentence02": "A woman is wearing ___.",
             "jp_sentence": "女性が手袋をしている。",
             "category01": "名",
@@ -5107,7 +4885,7 @@
             "desc02": ""
         }
     ],
-    "section24": [
+    "section23": [
         {
             "id": 1,
             "word": "row",
@@ -5254,7 +5032,7 @@
         {
             "id": 14,
             "word": "auditorium",
-            "sentence01": "Some people are seated in an auditorium.",
+            "sentence": "Some people are seated in an auditorium.",
             "sentence02": "Some people are seated in an ___.",
             "jp_sentence": "数名が講堂に座っている。",
             "category01": "名",
@@ -5329,7 +5107,7 @@
             "desc02": ""
         }
     ],
-    "section25": [
+    "section24": [
         {
             "id": 1,
             "word": "doorway",
@@ -5476,7 +5254,7 @@
         {
             "id": 14,
             "word": "exit",
-            "sentence01": "A woman is exiting a vehicle.",
+            "sentence": "A woman is exiting a vehicle.",
             "sentence02": "A woman is exiting a ___.",
             "jp_sentence": "女性が乗り物から出ようとしている。",
             "category01": "動",
@@ -5551,7 +5329,7 @@
             "desc02": ""
         }
     ],
-    "section26": [
+    "section25": [
         {
             "id": 1,
             "word": "courtyard",
@@ -5698,7 +5476,7 @@
         {
             "id": 14,
             "word": "utensil",
-            "sentence01": "She's arranging utensils on a table.",
+            "sentence": "She's arranging utensils on a table.",
             "sentence02": "She's arranging ___ on a table.",
             "jp_sentence": "彼女はテーブルに調理器具を並べている。",
             "category01": "名",
@@ -5773,7 +5551,7 @@
             "desc02": ""
         }
     ],
-    "section27": [
+    "section26": [
         {
             "id": 1,
             "word": "lately",
@@ -5920,7 +5698,7 @@
         {
             "id": 14,
             "word": "retail",
-            "sentence01": "retail stores",
+            "sentence": "retail stores",
             "sentence02": "___ stores",
             "jp_sentence": "小売店",
             "category01": "名",
@@ -5995,7 +5773,7 @@
             "desc02": ""
         }
     ],
-    "section28": [
+    "section27": [
         {
             "id": 1,
             "word": "imply",
@@ -6142,7 +5920,7 @@
         {
             "id": 14,
             "word": "appropriate",
-            "sentence01": "appropriate clothes for a job interview",
+            "sentence": "appropriate clothes for a job interview",
             "sentence02": "___ clothes for a job interview",
             "jp_sentence": "面接に適した服装",
             "category01": "形",
@@ -6153,7 +5931,7 @@
         {
             "id": 15,
             "word": "ingredient",
-            "sentence01": "use fresh ingredients",
+            "sentence": "use fresh ingredients",
             "sentence02": "use fresh ___",
             "jp_sentence": "新鮮な材料を使う",
             "category01": "名",
@@ -6217,7 +5995,7 @@
             "desc02": ""
         }
     ],
-    "section29": [
+    "section28": [
         {
             "id": 1,
             "word": "equip",
@@ -6364,7 +6142,7 @@
         {
             "id": 14,
             "word": "colleague",
-            "sentence01": "talk with a colleague",
+            "sentence": "talk with a colleague",
             "sentence02": "talk with a ___",
             "jp_sentence": "同僚と話をする",
             "category01": "名",
@@ -6375,7 +6153,7 @@
         {
             "id": 15,
             "word": "patron",
-            "sentence01": "libraly patrons",
+            "sentence": "libraly patrons",
             "sentence02": "libraly ___",
             "jp_sentence": "図書館の愛用者",
             "category01": "名",
@@ -6439,7 +6217,7 @@
             "desc02": ""
         }
     ],
-    "section30": [
+    "section29": [
         {
             "id": 1,
             "word": "numerous",
@@ -6586,7 +6364,7 @@
         {
             "id": 14,
             "word": "exceotional",
-            "sentence01": "exceptional customer service",
+            "sentence": "exceptional customer service",
             "sentence02": "___ customer service",
             "jp_sentence": "並外れた顧客サービス",
             "category01": "形",
@@ -6597,7 +6375,7 @@
         {
             "id": 15,
             "word": "luncheon",
-            "sentence01": "hold a luncheon",
+            "sentence": "hold a luncheon",
             "sentence02": "hold a ___",
             "jp_sentence": "昼食会を開く",
             "category01": "名",
