@@ -3469,7 +3469,7 @@
             "word": "grant",
             "sentence": "obtain a grant",
             "sentence02": "obtain a ___",
-            "jp_sentence": "歴史に特に興味がある",
+            "jp_sentence": "補助金を得る",
             "category01": "名",
             "desc01": "補助金、助成金",
             "category02": "動",
@@ -4245,8 +4245,8 @@
         {
             "id": 3,
             "word": "alike",
-            "sentence": "teachers and stidents alike",
-            "sentence02": "teachers and stidents ___",
+            "sentence": "teachers and students alike",
+            "sentence02": "teachers and students ___",
             "jp_sentence": "教師も生徒も同様に",
             "category01": "副",
             "desc01": "同様に",
@@ -4369,7 +4369,7 @@
             "sentence": "I occasionally travel abroad.",
             "sentence02": "I ___ travel abroad.",
             "jp_sentence": "私は時々海外に出張する。",
-            "category01": "形",
+            "category01": "副",
             "desc01": "時々",
             "category02": "",
             "desc02": ""
