@@ -7412,8 +7412,8 @@
         {
             "id": 8,
             "word": "attempt",
-            "sentence": "Tex's attempt to become a songer",
-            "sentence02": "Tex's ___ to become a songer",
+            "sentence": "Tex's attempt to become a singer",
+            "sentence02": "Tex's ___ to become a singer",
             "jp_sentence": "歌手になろとするテックスの試み",
             "category01": "名",
             "desc01": "試み",
@@ -7921,7 +7921,7 @@
         },
         {
             "id": 14,
-            "word": "duspose",
+            "word": "dispose",
             "sentence": "dispose of garbage",
             "sentence02": "___ a building",
             "jp_sentence": "ゴミを処分する",
@@ -7954,7 +7954,7 @@
         },
         {
             "id": 17,
-            "word": "presciption ",
+            "word": "prescription ",
             "sentence": "ask for a prescription",
             "sentence02": "ask for a ___",
             "jp_sentence": "処方箋を依頼する",
