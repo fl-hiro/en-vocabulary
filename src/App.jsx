@@ -1,5 +1,4 @@
 import Header from '@/components/Header'
-import { lsObj } from '@/components/LocalStorage.js'
 import '@/App.css'
 import Home from '@/Home';
 import Section from '@/Section';

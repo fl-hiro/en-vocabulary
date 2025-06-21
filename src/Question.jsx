@@ -3,6 +3,8 @@ import { useLocation, useNavigate } from "react-router-dom";
 import { lsObj } from '@/components/LocalStorage.js';
 import { getWordData } from "./components/RequestData";
 
+import { readVocaburaly } from './components/speechText';
+
 function Question() {
     const jsonBasePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
     const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "";
@@ -197,6 +199,9 @@ function Question() {
         showProgressBar(pageNum + 1);
         showReview(resultClass, pageNum);
 
+        // speechText
+        readVocaburaly(e.currentTarget.dataset.word);
+
         pageNum++;
     }
 
@@ -268,6 +273,7 @@ function Question() {
                         <button 
                             className="question__answer-button" 
                             data-answer-id={questionList[num].id} 
+                            data-word={questionList[num].word} 
                             onClick={checkAnswer}>
                                 <span className="u-mr-3">{questionList[num].desc01 && questionList[num].desc01}</span>
                                 <span>{questionList[num].desc02 && `、${questionList[num].desc02}`}</span>
@@ -276,6 +282,7 @@ function Question() {
                         <button 
                             className="question__answer-button" 
                             data-answer-id={questionList[num].id} 
+                            data-word={questionList[num].word} 
                             onClick={checkAnswer}>
                                 {questionList[num].word}
                         </button> 
