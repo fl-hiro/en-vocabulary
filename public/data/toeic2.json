@@ -8678,8 +8678,8 @@
         {
             "id": 2,
             "word": "moderate",
-            "sentence": "moderate expercise",
-            "sentence02": "___ expercise",
+            "sentence": "moderate exercise",
+            "sentence02": "___ exercise",
             "jp_sentence": "適度な運動",
             "category01": "形",
             "desc01": "ほどほどの、適度な",
@@ -9265,8 +9265,8 @@
         {
             "id": 15,
             "word": "recipient",
-            "sentence": "recipients of teh prize",
-            "sentence02": "___ of teh prize",
+            "sentence": "recipients of the prize",
+            "sentence02": "___ of the prize",
             "jp_sentence": "賞の受賞者",
             "category01": "名",
             "desc01": "受取人、受賞者",
@@ -9799,8 +9799,8 @@
         {
             "id": 3,
             "word": "compensate",
-            "sentence": "You will be conpensated for teh damage.",
-            "sentence02": "You will be ___ for teh damage.",
+            "sentence": "You will be conpensated for the damage.",
+            "sentence02": "You will be ___ for the damage.",
             "jp_sentence": "あなたは損害の補償を受けます。",
             "category01": "動",
             "desc01": "補償する",
@@ -11991,6 +11991,118 @@
             "jp_sentence": "会社は危機にある。",
             "category01": "名",
             "desc01": "危機、危険",
+            "category02": "",
+            "desc02": ""
+        }
+    ],
+    "section55": [
+        {
+            "id": 1,
+            "word": "nominal",
+            "sentence": "for a nominal fee",
+            "sentence02": "for a ___ fee",
+            "jp_sentence": "ほんのわずかな費用で",
+            "category01": "形",
+            "desc01": "ほんのわずかな",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "deviate",
+            "sentence": "deviate from the original plan",
+            "sentence02": "___ from the original plan",
+            "jp_sentence": "元々の計画からそれる",
+            "category01": "動",
+            "desc01": "それる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "forfeit",
+            "sentence": "forfeit the deposit",
+            "sentence02": "___ the deposit",
+            "jp_sentence": "保証金を略奪される",
+            "category01": "動",
+            "desc01": "没収される、略奪される",
+            "category02": "名",
+            "desc02": "罰金、犠牲"
+        },
+        {
+            "id": 4,
+            "word": "bolster",
+            "sentence": "bolster sales",
+            "sentence02": "___ sales",
+            "jp_sentence": "販売を強化する",
+            "category01": "動",
+            "desc01": "強化する、保証する、鼓舞する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "optimal",
+            "sentence": "achieve optimal performance",
+            "sentence02": "achieve ___ performance",
+            "jp_sentence": "最高のパフォーマンスを達成する",
+            "category01": "形",
+            "desc01": "ベストな、最適な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "purveyor",
+            "sentence": "a purveyor of groceries",
+            "sentence02": "a ___ of groceries",
+            "jp_sentence": "食料品の販売業者",
+            "category01": "名",
+            "desc01": "供給業者、販売業者",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "raffle",
+            "sentence": "sell raffle tickets",
+            "sentence02": "sell ___ tickets",
+            "jp_sentence": "福引のチケットを販売する",
+            "category01": "名",
+            "desc01": "福引",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "ventilation",
+            "sentence": "poor ventilation",
+            "sentence02": "poor ___",
+            "jp_sentence": "風通しの悪さ",
+            "category01": "名",
+            "desc01": "換気、風通し",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "unwavering",
+            "sentence": "through your unwavering efforts",
+            "sentence02": "through your ___ efforts",
+            "jp_sentence": "みなさんの不断の努力で",
+            "category01": "形",
+            "desc01": "ゆるがぬ、断固とした",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "exponentially",
+            "sentence": "Your vocabulary has grown exponentially",
+            "sentence02": "Your vocabulary has grown ___",
+            "jp_sentence": "みなさんの語録は加速度的に増えました。",
+            "category01": "副",
+            "desc01": "加速度的に、指数関数的に",
             "category02": "",
             "desc02": ""
         }
