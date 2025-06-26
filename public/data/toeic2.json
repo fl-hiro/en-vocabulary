@@ -9787,8 +9787,8 @@
         },
         {
             "id": 2,
-            "word": "lengthly",
-            "sentence": "a lengthly process",
+            "word": "lengthy",
+            "sentence": "a lengthy process",
             "sentence02": "a ___ process",
             "jp_sentence": "長期にわたるプロセス",
             "category01": "形",
@@ -10069,7 +10069,7 @@
             "sentence02": "The ___ will go to charity.",
             "jp_sentence": "収益は慈善活動に回されます。",
             "category01": "名",
-            "desc01": "有益",
+            "desc01": "収益",
             "category02": "",
             "desc02": ""
         },
@@ -10227,7 +10227,7 @@
             "sentence02": "The rule is ___ to all employees.",
             "jp_sentence": "その規則は全社員に適用されます。",
             "category01": "形",
-            "desc01": "提要される、当てはまる",
+            "desc01": "適用される、当てはまる",
             "category02": "",
             "desc02": ""
         },
