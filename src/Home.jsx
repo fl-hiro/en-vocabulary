@@ -21,6 +21,13 @@ function Home() {
         }
     })
   }
+  const moveIelts = () => {
+    navigate(`${basePath}/Section`, {
+        state: {
+            menu: "ielts"
+        }
+    })
+  }
   const moveConfig = () => {
     navigate(`${basePath}/AppConfig`);
   }
@@ -45,6 +52,15 @@ function Home() {
                       <div className="main-container__item-inner">
                           <div className="main-conainer__flex-left">
                               <h2 className="main-container__item-title">TOEIC2</h2>
+                          </div>
+                      </div>
+                  </button>
+              </li>
+              <li className="main-container__item">
+                  <button className="main-container__item-link" onClick={moveIelts}>
+                      <div className="main-container__item-inner">
+                          <div className="main-conainer__flex-left">
+                              <h2 className="main-container__item-title">IELTS</h2>
                           </div>
                       </div>
                   </button>
