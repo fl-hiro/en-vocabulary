@@ -26,6 +26,7 @@ function Question() {
     }
    };
    const [displayConfig, setDisplayConfig] = useState(false);
+   const [voiceConfig, setVoiceConfig] = useState(false);
     // lsにページ番号を保存
     useEffect(() => {
         if (!lsObj.connect()) return;
@@ -33,7 +34,9 @@ function Question() {
         // set  display config 
         const configObj = JSON.parse(lsObj.get(questonConfigItemName));
         const configValue = !configObj || configObj === null ? "type01" : configObj.display_type;
+        const isVoiceConfig = (!configObj || configObj === null) || configObj.voice === "off" ? false : true;
         setDisplayConfig(configValue);
+        setVoiceConfig(isVoiceConfig)
 
         // set inital incorrect obj
         const lsIncorrect = JSON.parse(lsObj.get(lsIncorrectItemName));
@@ -200,7 +203,7 @@ function Question() {
         showReview(resultClass, pageNum);
 
         // speechText
-        readVocaburaly(e.currentTarget.dataset.word);
+        resultClass === "incorrect" || !voiceConfig ? "" : readVocaburaly(e.currentTarget.dataset.word);
 
         pageNum++;
     }

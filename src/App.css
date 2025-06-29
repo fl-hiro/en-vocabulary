@@ -234,6 +234,9 @@
 .review__desc {
   font-size: 1.4rem;
 }
+.review__desc:not(:first-child) {
+  margin-top: 8px;
+}
 .review__desc-category {
   margin-right: 5px;
   padding: 3px;
@@ -427,10 +430,59 @@
   text-align: center;
 }
 .config-close__button {
-  padding: 8px 16px;
+  padding: 8px 25px;
   background-color: #666;
   border: none;
   border-radius: 30px;
+  font-size: 1.4rem;
+  color: #fff;
+}
+
+.config-info-detail {
+  display: flex;
+  max-height: 0;
+  padding: 10px 0;
+  visibility: hidden;
+  opacity: 0;
+  transition: all .3s ease-in-out;
+}
+.config-info-detail.show {
+  max-height: 100vh;
+  visibility: visible;
+  opacity: 1;
+}
+.config-info-detail__item--col2 {
+  width: calc(100% / 2);
+}
+.config-info-detail__item--col3 {
+  width: calc(100% / 3);
+}
+.config-info-detail__radio {
+  display: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.config-info-detail__label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 0;
+  background-color: #fff;
+  border: solid 1px #67AE93;
+  font-size: 1.4rem;
+}
+.config-info-detail__item:first-child .config-info-detail__label {
+  border-radius: 8px 0 0 8px;
+  border-right: none;
+}
+.config-info-detail__item:last-child .config-info-detail__label {
+  border-radius: 0 8px 8px 0;
+}
+.config-info-detail__item--col3:last-child .config-info-detail__label {
+  border-left: none;
+}
+.config-info-detail__radio:checked + .config-info-detail__label {
+  background-color: #67AE93;
   color: #fff;
 }
 

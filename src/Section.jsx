@@ -7,6 +7,11 @@ import { useEffect, useState, useRef, createRef } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
 function Section() {
+    // steps history back
+    window.addEventListener("popstate", () => {
+        location.reload();
+    });
+
     const jsonBasePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "/public";
     const basePath = location.hostname.indexOf("github") !== -1 ? "/en-vocabulary" : "";
     const locationState = useLocation();
