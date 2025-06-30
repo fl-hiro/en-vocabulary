@@ -1099,7 +1099,7 @@
         },
         {
             "id": 20,
-            "word": "replcaement",
+            "word": "replacement",
             "sentence": "replacement parts",
             "sentence02": "___ parts",
             "jp_sentence": "交換部品",
@@ -10999,8 +10999,8 @@
         {
             "id": 11,
             "word": "deduct",
-            "sentence": "deduct tax from patments",
-            "sentence02": "___ tax from patments",
+            "sentence": "deduct tax from payments",
+            "sentence02": "___ tax from payments",
             "jp_sentence": "支払いから税金を控除する",
             "category01": "動",
             "desc01": "控除する",
