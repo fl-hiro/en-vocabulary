@@ -967,23 +967,23 @@
         },
         {
             "id": 8,
-            "word": "fee",
-            "sentence": "pay a late fee",
-            "sentence02": "pay a late ___",
-            "jp_sentence": "遅延料金を払う",
-            "category01": "名",
-            "desc01": "料金",
-            "category02": "",
-            "desc02": ""
-        },
-        {
-            "id": 9,
             "word": "oppotunity",
             "sentence": "an oppotunity to work with you",
             "sentence02": "an ___ to work with you",
             "jp_sentence": "あなたとお仕事をする機会",
             "category01": "名",
             "desc01": "機会、チャンス",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "deadline",
+            "sentence": "the deadline for the project",
+            "sentence02": "the ___ for the project",
+            "jp_sentence": "プロジェクトの締め切り",
+            "category01": "名",
+            "desc01": "締め切り、期限",
             "category02": "",
             "desc02": ""
         },
@@ -3433,7 +3433,7 @@
         },
         {
             "id": 10,
-            "word": "autoamtically",
+            "word": "automatically",
             "sentence": "The machine will automatically shut down.",
             "sentence02": "The machine will ___ shut down.",
             "jp_sentence": "その機会は自動的に電源が切れます。",
@@ -3590,8 +3590,8 @@
         {
             "id": 4,
             "word": "praise",
-            "sentence": "The team was praised bu the CEO.",
-            "sentence02": "The team was ___ bu the CEO.",
+            "sentence": "The team was praised by the CEO.",
+            "sentence02": "The team was ___ by the CEO.",
             "jp_sentence": "そのチームはCEOに褒められた。",
             "category01": "動",
             "desc01": "褒める",
