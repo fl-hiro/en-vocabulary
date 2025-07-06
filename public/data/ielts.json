@@ -8656,5 +8656,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section40": [
+        {
+            "id": 1,
+            "word": "subordinate",
+            "sentence": "a direct subordinate",
+            "sentence02": "a direct ___",
+            "jp_sentence": "直属の部下",
+            "category01": "名",
+            "desc01": "部下",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "ritual",
+            "sentence": "a symbolic ritual",
+            "sentence02": "a symbolic ___",
+            "jp_sentence": "象徴儀礼",
+            "category01": "名",
+            "desc01": "（宗教的）儀式",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "virtue",
+            "sentence": "virtue and vice",
+            "sentence02": "___ and vice",
+            "jp_sentence": "美徳と悪徳",
+            "category01": "名",
+            "desc01": "美徳、徳、善、長所",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "clarity",
+            "sentence": "remember with surprising clarity",
+            "sentence02": "remember with surprising ___",
+            "jp_sentence": "意外なほど明晰に覚えている",
+            "category01": "名",
+            "desc01": "明晰さ、明快さ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "reward",
+            "sentence": "reward and punishment",
+            "sentence02": "___ and punishment",
+            "jp_sentence": "賞罰",
+            "category01": "名",
+            "desc01": "報酬",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "asset",
+            "sentence": "cultural assets of a nation",
+            "sentence02": "cultural ___ of a nation",
+            "jp_sentence": "国の文化財",
+            "category01": "名",
+            "desc01": "資産、財産、利点",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "instance",
+            "sentence": "for instance",
+            "sentence02": "for ___",
+            "jp_sentence": "例えば",
+            "category01": "名",
+            "desc01": "事例",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "repetitive",
+            "sentence": "repetitive movement",
+            "sentence02": "___ movement",
+            "jp_sentence": "反復運動",
+            "category01": "形",
+            "desc01": "繰り返しの",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "stick",
+            "sentence": "stick a knife",
+            "sentence02": "___ a knife",
+            "jp_sentence": "ナイフを突き刺す",
+            "category01": "動",
+            "desc01": "突き刺す、貼り付ける",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "inventive",
+            "sentence": "an inventive design",
+            "sentence02": "an ___ design",
+            "jp_sentence": "創意に富んだデザイン",
+            "category01": "形",
+            "desc01": "発明の（才のある）、創意に富む",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "store",
+            "sentence": "store a large amount of data",
+            "sentence02": "___ a large amount of data",
+            "jp_sentence": "大量のデータを蓄える",
+            "category01": "動",
+            "desc01": "蓄える",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "frontal",
+            "sentence": "a frontal collision",
+            "sentence02": "a ___ collision",
+            "jp_sentence": "正面衝突",
+            "category01": "形",
+            "desc01": "正面の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "conscious",
+            "sentence": "conscious behaviour",
+            "sentence02": "___ behaviour",
+            "jp_sentence": "意図的な行為",
+            "category01": "形",
+            "desc01": "意識のある、意図的な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "fatigue",
+            "sentence": "metal fatigue",
+            "sentence02": "metal ___",
+            "jp_sentence": "金属疲労",
+            "category01": "名",
+            "desc01": "疲労",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "depressed",
+            "sentence": "be depressed about life",
+            "sentence02": "be ___ about life",
+            "jp_sentence": "人生を悲観している",
+            "category01": "形",
+            "desc01": "意気消沈した",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "phenomenon",
+            "sentence": "a paranormal phenomenon",
+            "sentence02": "a paranormal ___",
+            "jp_sentence": "超常現象",
+            "category01": "名",
+            "desc01": "現象",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "severely",
+            "sentence": "be severely injured",
+            "sentence02": "be ___ injured",
+            "jp_sentence": "重傷を負う",
+            "category01": "副",
+            "desc01": "ひどく",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "sticky",
+            "sentence": "sticky tape",
+            "sentence02": "___ tape",
+            "jp_sentence": "粘着テープ",
+            "category01": "形",
+            "desc01": "粘着性のある",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "involve",
+            "sentence": "be deeply involved with the fraud",
+            "sentence02": "be deeply ___ with the fraud",
+            "jp_sentence": "詐欺と深く関わっている",
+            "category01": "動",
+            "desc01": "〜と関わる",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "unit",
+            "sentence": "unit cost",
+            "sentence02": "___ cost",
+            "jp_sentence": "単位あたりの原価",
+            "category01": "名",
+            "desc01": "構成単位",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
