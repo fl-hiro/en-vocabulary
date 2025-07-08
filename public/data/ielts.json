@@ -9836,6 +9836,17 @@
         },
         {
             "id": 7,
+            "word": "preconception",
+            "sentence": "the gap between preconceptions and reality",
+            "sentence02": "the gap between ___ and reality",
+            "jp_sentence": "先入観と現実のギャップ",
+            "category01": "名",
+            "desc01": "先入観、偏見",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
             "word": "array",
             "sentence": "a vast array of goods in the megastore",
             "sentence02": "a vast ___ of goods in the megastore",
@@ -9846,7 +9857,7 @@
             "desc02": ""
         },
         {
-            "id": 8,
+            "id": 9,
             "word": "extensive",
             "sentence": "the professor's extensive academic knowledge",
             "sentence02": "the professor's ___ academic knowledge",
@@ -9857,7 +9868,7 @@
             "desc02": ""
         },
         {
-            "id": 9,
+            "id": 10,
             "word": "hemisphere",
             "sentence": "areas in the borthern hemisphere",
             "sentence02": "areas in the borthern ___",
@@ -9868,7 +9879,7 @@
             "desc02": ""
         },
         {
-            "id": 10,
+            "id": 11,
             "word": "downturn",
             "sentence": "an economic downturn",
             "sentence02": "an economic ___",
@@ -9879,7 +9890,7 @@
             "desc02": ""
         },
         {
-            "id": 11,
+            "id": 12,
             "word": "demographic",
             "sentence": "a demographic shift towards an older population",
             "sentence02": "a ___ shift towards an older population",
@@ -9890,7 +9901,7 @@
             "desc02": ""
         },
         {
-            "id": 12,
+            "id": 13,
             "word": "enrolment",
             "sentence": "enrolment in a school",
             "sentence02": "___ in a school",
@@ -9901,7 +9912,7 @@
             "desc02": ""
         },
         {
-            "id": 13,
+            "id": 14,
             "word": "compensate",
             "sentence": "compensate the deficit",
             "sentence02": "___ the deficitt",
@@ -9912,7 +9923,7 @@
             "desc02": ""
         },
         {
-            "id": 14,
+            "id": 15,
             "word": "wield",
             "sentence": "The government wields enormous power.",
             "sentence02": "The government ___ enormous power.",
@@ -9923,7 +9934,7 @@
             "desc02": ""
         },
         {
-            "id": 15,
+            "id": 16,
             "word": "anthropology",
             "sentence": "major in social anthropology",
             "sentence02": "major in social ___",
@@ -9934,7 +9945,7 @@
             "desc02": ""
         },
         {
-            "id": 16,
+            "id": 17,
             "word": "drive",
             "sentence": "drive away the enemy",
             "sentence02": "___ away the enemy",
@@ -9945,7 +9956,7 @@
             "desc02": ""
         },
         {
-            "id": 17,
+            "id": 18,
             "word": "epidemic",
             "sentence": "epidemics of influenza",
             "sentence02": "___ of influenza",
@@ -9956,7 +9967,7 @@
             "desc02": ""
         },
         {
-            "id": 18,
+            "id": 19,
             "word": "waterborne",
             "sentence": "waterborne paint",
             "sentence02": "___ paint",
@@ -9965,9 +9976,9 @@
             "desc01": "水性の、水上の",
             "category02": "",
             "desc02": ""
-        },
+            },
         {
-            "id": 19,
+            "id": 20,
             "word": "static",
             "sentence": "static eletricity",
             "sentence02": "___ eletricity",
@@ -9976,15 +9987,448 @@
             "desc01": "静止した",
             "category02": "",
             "desc02": ""
-            },
+        }
+    ],
+    "section46": [
         {
-            "id": 20,
+            "id": 1,
             "word": "halve",
             "sentence": "halve the price as a special discount",
             "sentence02": "___ the price as a special discount",
             "jp_sentence": "特別割引として半額にする",
             "category01": "動",
             "desc01": "半分にする",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "incidence",
+            "sentence": "a higher incidence of cancer among smokers",
+            "sentence02": "a higher ___ of cancer among smokers",
+            "jp_sentence": "喫煙者の高いがん発生率",
+            "category01": "名",
+            "desc01": "発生率、発生",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "agent",
+            "sentence": "a cancer-causing agent",
+            "sentence02": "a cancer-causing ___",
+            "jp_sentence": "がん因子（発がん性物質）",
+            "category01": "名",
+            "desc01": "因子、作用物質",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "prevalence",
+            "sentence": "a high prevalence rate",
+            "sentence02": "a high ___ rate",
+            "jp_sentence": "高い普及率",
+            "category01": "名",
+            "desc01": "普及、流行",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "coincidence",
+            "sentence": "by an amazing coincidence",
+            "sentence02": "by an amazing ___",
+            "jp_sentence": "驚くほどの偶然で",
+            "category01": "名",
+            "desc01": "偶然の一致、同時発生",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "purify",
+            "sentence": "Trees purify the air.",
+            "sentence02": "Trees ___ the air.",
+            "jp_sentence": "木々が空気を浄化する。",
+            "category01": "動",
+            "desc01": "浄化する、清める",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "inconsistency",
+            "sentence": "inconsistency between words and deeds",
+            "sentence02": "___ between words and deeds",
+            "jp_sentence": "言行の不一致",
+            "category01": "名",
+            "desc01": "不一致、矛盾",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "heighten",
+            "sentence": "heighten awareness of the importance",
+            "sentence02": "___ awareness of the importance",
+            "jp_sentence": "重要性の認識を高める",
+            "category01": "動",
+            "desc01": "高める、強める",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "measure",
+            "sentence": "a measure to stop global warming",
+            "sentence02": "a ___ to stop global warming",
+            "jp_sentence": "温暖化を止める手段",
+            "category01": "名",
+            "desc01": "手段、方策",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "devote",
+            "sentence": "devote one's time to achiving goals",
+            "sentence02": "___ one's time to achiving goals",
+            "jp_sentence": "目的達成に時間を捧げる",
+            "category01": "名",
+            "desc01": "手段、方策",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "shelter",
+            "sentence": "a need for food, shelter and clothing",
+            "sentence02": "a need for food, ___ and clothing",
+            "jp_sentence": "衣食住の必要性",
+            "category01": "名",
+            "desc01": "避難所",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "household",
+            "sentence": "a large household of ten persons",
+            "sentence02": "a large ___ of ten persons",
+            "jp_sentence": "10人の大世帯",
+            "category01": "名",
+            "desc01": "世帯、家庭",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "finding",
+            "sentence": "a remarkable new finding by scientists",
+            "sentence02": "a remarkable new ___ by scientists",
+            "jp_sentence": "科学者による注目すべき新発見",
+            "category01": "名",
+            "desc01": "発見",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "expenditure",
+            "sentence": "avoid unnecessary expenditure",
+            "sentence02": "avoid unnecessary ___",
+            "jp_sentence": "不必要な支出を避ける",
+            "category01": "名",
+            "desc01": "支出、消費、経費",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "tricky",
+            "sentence": "victims of the tricky diplomacy",
+            "sentence02": "victims of the ___ diplomacy",
+            "jp_sentence": "狡猾な外交術の犠牲",
+            "category01": "形",
+            "desc01": "狡猾な、巧妙な、扱いにくい",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "fair",
+            "sentence": "a fair judgement",
+            "sentence02": "a ___ judgement",
+            "jp_sentence": "公正な判断",
+            "category01": "形",
+            "desc01": "公正な、公平な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "molecule",
+            "sentence": "DNA molecule",
+            "sentence02": "DNA ___",
+            "jp_sentence": "DNA分子",
+            "category01": "名",
+            "desc01": "分子",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "ethical",
+            "sentence": "face ethical dilemmas",
+            "sentence02": "face ___ dilemmas",
+            "jp_sentence": "倫理上のジレンマに直面する",
+            "category01": "形",
+            "desc01": "倫理道徳上の、倫理道徳的な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "wary",
+            "sentence": "be wary of strangers",
+            "sentence02": "be ___ of strangers",
+            "jp_sentence": "見知らぬ人に用心する",
+            "category01": "形",
+            "desc01": "用心深い、慎重な",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "dispute",
+            "sentence": "resolve the dispute between two gropus",
+            "sentence02": "resolve the ___ between two gropus",
+            "jp_sentence": "2グループの論争を解決する",
+            "category01": "名",
+            "desc01": "論争、口論",
+            "category02": "",
+            "desc02": ""
+        }
+    ],
+    "section47": [
+        {
+            "id": 1,
+            "word": "ongoing",
+            "sentence": "Don't ignore the ongoing crisis.",
+            "sentence02": "Don't ignore the ___ crisis.",
+            "jp_sentence": "今ある危機をを見過ごすな。",
+            "category01": "形",
+            "desc01": "進行中の、継続している",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "hesitancy",
+            "sentence": "hesitancy and doupt about a war",
+            "sentence02": "___ and doupt about a war",
+            "jp_sentence": "戦争へのためらいと疑い",
+            "category01": "名",
+            "desc01": "ためらい、躊躇",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "deficient",
+            "sentence": "stop a diet deficient in vitamins",
+            "sentence02": "stop a diet ___ in vitamins",
+            "jp_sentence": "ビタミン不足の食事をやめる",
+            "category01": "形",
+            "desc01": "かけている、不足した",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "pest",
+            "sentence": "an effective means of pest control",
+            "sentence02": "an effective means of ___ control",
+            "jp_sentence": "効果的な害虫駆除方法",
+            "category01": "名",
+            "desc01": "害虫、有害生物",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "proponent",
+            "sentence": "a proponent of democracy",
+            "sentence02": "a ___ of democracy",
+            "jp_sentence": "民主主義の支持者",
+            "category01": "名",
+            "desc01": "支持者",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "malnutrition",
+            "sentence": "die from malnutrition",
+            "sentence02": "die from ___",
+            "jp_sentence": "栄養失調で亡くなる",
+            "category01": "名",
+            "desc01": "栄養失調、栄養不足",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "lessen",
+            "sentence": "lessen the risk of cancer",
+            "sentence02": "___ the risk of cancer",
+            "jp_sentence": "がんのリスクを減らす",
+            "category01": "動",
+            "desc01": "少なくする、減らす",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "found",
+            "sentence": "a school founded in 1890",
+            "sentence02": "a school ___ in 1890",
+            "jp_sentence": "1980年に設立された学校",
+            "category01": "動",
+            "desc01": "設立する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "remedy",
+            "sentence": "Chinese herbal remedy",
+            "sentence02": "Chinese herbal ___",
+            "jp_sentence": "漢方治療（薬）",
+            "category01": "名",
+            "desc01": "治療（薬）、特別補習",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "symptom",
+            "sentence": "a symptom of ageing",
+            "sentence02": "a ___ of ageing",
+            "jp_sentence": "老化の兆候",
+            "category01": "名",
+            "desc01": "兆候、症状",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "represent",
+            "sentence": "Wind direction is represented by arrows.",
+            "sentence02": "Wind direction is ___ by arrows.",
+            "jp_sentence": "風向きは矢で表される",
+            "category01": "動",
+            "desc01": "表す、代表する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "incredible",
+            "sentence": "an incredible number of stars in a galaxy",
+            "sentence02": "an ___ number of stars in a galaxy",
+            "jp_sentence": "銀河の中のおびただしい数の星",
+            "category01": "形",
+            "desc01": "信じられない、途方もない",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "dissolve",
+            "sentence": "dissolve in water",
+            "sentence02": "___ in water",
+            "jp_sentence": "水に溶ける",
+            "category01": "動",
+            "desc01": "溶ける、溶かす",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "stand",
+            "sentence": "stand hard work",
+            "sentence02": "___ hard work",
+            "jp_sentence": "激務に耐える",
+            "category01": "動",
+            "desc01": "我慢する、持ち堪える",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "conventional",
+            "sentence": "challenge conventional thinking",
+            "sentence02": "challenge ___ thinking",
+            "jp_sentence": "従来の考え方に挑戦する",
+            "category01": "形",
+            "desc01": "習慣の、伝統の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "clinical",
+            "sentence": "clinical experiment",
+            "sentence02": "___ experiment",
+            "jp_sentence": "臨床実験",
+            "category01": "形",
+            "desc01": "臨床の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "unconscious",
+            "sentence": "an unconscious bias",
+            "sentence02": "an ___ bias",
+            "jp_sentence": "無意識の偏見",
+            "category01": "形",
+            "desc01": "無意識の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "lengthy",
+            "sentence": "lengthy illness",
+            "sentence02": "___ illness",
+            "jp_sentence": "長患い",
+            "category01": "形",
+            "desc01": "非常に長い",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "underlying",
+            "sentence": "an underlying cause of the rising crime rate",
+            "sentence02": "an ___ cause of the rising crime rate",
+            "jp_sentence": "増加する犯罪率の根本的原因",
+            "category01": "形",
+            "desc01": "根本的な、基本的な、裏に隠れた",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "stimulate",
+            "sentence": "stimulate discussion among students",
+            "sentence02": "___ discussion among students",
+            "jp_sentence": "学生たちの議論を促す",
+            "category01": "動",
+            "desc01": "刺激して〜させる、刺激する",
             "category02": "",
             "desc02": ""
         }
