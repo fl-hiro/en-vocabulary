@@ -1,8 +1,8 @@
 import { lsObj } from '@/components/LocalStorage.js';
 
 const synth =  window.speechSynthesis;
-const MALE_VALUE = 0.8;
-const FEMALE_VALUE = 1.9;
+const MALE_VALUE = 0.6;
+const FEMALE_VALUE = 1.7;
 const LOW_SPEED_VALUE = 0.2;
 const MEDIUM_SPEED_VALUE = 0.8;
 const HIGH_SPEED_VALUE = 1.2;
