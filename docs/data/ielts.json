@@ -11320,5 +11320,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section52": [
+        {
+            "id": 1,
+            "word": "ascertain",
+            "sentence": "ascertain the exact location",
+            "sentence02": "___ the exact location",
+            "jp_sentence": "正確な場所を突き止める",
+            "category01": "動",
+            "desc01": "確かめる、突き止める",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "comprise",
+            "sentence": "comprise 25% of the total population",
+            "sentence02": "___ 25% of the total population",
+            "jp_sentence": "全人口の25%を占める",
+            "category01": "動",
+            "desc01": "含む、〜からなる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "tightrope",
+            "sentence": "walk a diplomatic tightrope",
+            "sentence02": "walk a diplomatic ___",
+            "jp_sentence": "綱渡り外交をする",
+            "category01": "名",
+            "desc01": "綱渡りのような状況",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "footnote",
+            "sentence": "add a footnote",
+            "sentence02": "add a ___",
+            "jp_sentence": "脚注をつける",
+            "category01": "名",
+            "desc01": "脚注",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "allusion",
+            "sentence": "make an allusion to Shakespeare",
+            "sentence02": "make an ___ to Shakespeare",
+            "jp_sentence": "それとなくシェークスピアを引用する",
+            "category01": "名",
+            "desc01": "ほのめかし（さりげない）言及",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "assonance",
+            "sentence": "make an assonance",
+            "sentence02": "make an ___",
+            "jp_sentence": "母音韻を踏む",
+            "category01": "名",
+            "desc01": "（音の）類似、類者",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "default",
+            "sentence": "default on debts",
+            "sentence02": "___ on debts",
+            "jp_sentence": "債務の不履行",
+            "category01": "名",
+            "desc01": "不履行、怠慢、初期設定",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "rage",
+            "sentence": "explode with rage",
+            "sentence02": "explode with ___",
+            "jp_sentence": "怒りが爆発する",
+            "category01": "名",
+            "desc01": "激怒、憤慨",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "due",
+            "sentence": "Payment is due on the 1st of September.",
+            "sentence02": "Payment is ___ on the 1st of September.",
+            "jp_sentence": "支払いは9月1日が期限です。",
+            "category01": "形",
+            "desc01": "当然支払うべき、提出期限がきた",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "resort",
+            "sentence": "Extreamists resorted to violence.",
+            "sentence02": "Extreamists ___ to violence.",
+            "jp_sentence": "過激派は暴力に訴えた",
+            "category01": "動",
+            "desc01": "頼る（訴える）、しばしば行く",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "dehumanisation",
+            "sentence": "dehumanisation by war",
+            "sentence02": "___ by war",
+            "jp_sentence": "戦争による人間の喪失",
+            "category01": "名",
+            "desc01": "人間性の喪失、非人間化",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "evasive",
+            "sentence": "take an evasive action",
+            "sentence02": "take an ___ action",
+            "jp_sentence": "回避のための手段を取る",
+            "category01": "形",
+            "desc01": "回避的な、言い逃れの",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "collision",
+            "sentence": "a head-on collision",
+            "sentence02": "a head-on ___",
+            "jp_sentence": "正面衝突",
+            "category01": "名",
+            "desc01": "衝突、食い違い",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "dreadful",
+            "sentence": "a dreadful car accident",
+            "sentence02": "a ___ car accident",
+            "jp_sentence": "恐ろしい自動車事故",
+            "category01": "形",
+            "desc01": "恐ろしい",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "gruesome",
+            "sentence": "a gruesome crime scene",
+            "sentence02": "a ___ crime scene",
+            "jp_sentence": "おぞましい犯罪現場",
+            "category01": "形",
+            "desc01": "陰惨な、身の毛がよだつ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "bestow",
+            "sentence": "bestow an honorary degree on her",
+            "sentence02": "___ an honorary degree on her",
+            "jp_sentence": "彼女に名誉学位を授与する",
+            "category01": "動",
+            "desc01": "授ける、贈る",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "witness",
+            "sentence": "witness a major change",
+            "sentence02": "___ a major change",
+            "jp_sentence": "大きな変化を目の当たりにする",
+            "category01": "動",
+            "desc01": "目撃する、証言する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "startling",
+            "sentence": "reveal startling facts",
+            "sentence02": "reveal ___ facts",
+            "jp_sentence": "衝撃的な真実を明らかにする",
+            "category01": "形",
+            "desc01": "仰天ささせるような、驚くべき",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "deliberately",
+            "sentence": "deliberately ignore the question",
+            "sentence02": "___ ignore the question",
+            "jp_sentence": "質問を故意に無視する",
+            "category01": "副",
+            "desc01": "わざと、意図的に",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "chilling",
+            "sentence": "a chilling ghost story",
+            "sentence02": "a ___ ghost story",
+            "jp_sentence": "身も凍るような怪談",
+            "category01": "形",
+            "desc01": "身も凍るような、冷え冷えする",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
