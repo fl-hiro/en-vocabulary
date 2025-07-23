@@ -13762,5 +13762,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section63": [
+        {
+            "id": 1,
+            "word": "utterly",
+            "sentence": "utterly useless",
+            "sentence02": "___ useless",
+            "jp_sentence": "全く役に立たない",
+            "category01": "副",
+            "desc01": "全く",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "estate",
+            "sentence": "a real estate agent",
+            "sentence02": "a real ___ agent",
+            "jp_sentence": "不動産業者",
+            "category01": "名",
+            "desc01": "財産、地所、私有地",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "outnumber",
+            "sentence": "Boys outnumber girls.",
+            "sentence02": "Boys ___ girls.",
+            "jp_sentence": "男子が女子より多い。",
+            "category01": "動",
+            "desc01": "〜に数でまさる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "magnificent",
+            "sentence": "a magnificent building",
+            "sentence02": "a ___ building",
+            "jp_sentence": "壮大な建物",
+            "category01": "形",
+            "desc01": "素晴らしい、壮大な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "orientage",
+            "sentence": "orientage oneself to one's new way of life",
+            "sentence02": "___ oneself to one's new way of life",
+            "jp_sentence": "新しい生活様式に適応する",
+            "category01": "動",
+            "desc01": "適用させる、正しい位置に置く",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "stunning",
+            "sentence": "a stunning view of the lake",
+            "sentence02": "a ___ view of the lake",
+            "jp_sentence": "湖の素晴らしい眺め",
+            "category01": "形",
+            "desc01": "とても美しい、魅力的な、驚くべき",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "scheme",
+            "sentence": "a business scheme",
+            "sentence02": "a business ___",
+            "jp_sentence": "事業計画",
+            "category01": "名",
+            "desc01": "計画、配置",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "Human Resources",
+            "sentence": "a human resources manager",
+            "sentence02": "a ___ manager",
+            "jp_sentence": "人事部長",
+            "category01": "名",
+            "desc01": "人事部",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "refine",
+            "sentence": "refine one's own mind",
+            "sentence02": "___ one's own mind",
+            "jp_sentence": "自分の心を磨く",
+            "category01": "動",
+            "desc01": "〜に磨きをかける、〜を精製する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "proficiency",
+            "sentence": "a degree of proficiency",
+            "sentence02": "a degree of ___",
+            "jp_sentence": "習熟度",
+            "category01": "名",
+            "desc01": "上達、習熟",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "monolingual",
+            "sentence": "be brought up as a monoligual",
+            "sentence02": "be brought up as a ___",
+            "jp_sentence": "1ヶ国語だけ話す人として育てられる",
+            "category01": "名",
+            "desc01": "1ヶ国語だけ話す人",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "publicity",
+            "sentence": "receive much publicity",
+            "sentence02": "receive much ___",
+            "jp_sentence": "大きな注目を集める",
+            "category01": "名",
+            "desc01": "知名度、評判、宣伝広報",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "council",
+            "sentence": "the city council",
+            "sentence02": "the city ___",
+            "jp_sentence": "市議会",
+            "category01": "名",
+            "desc01": "地方自治体、評議会",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "breakdown",
+            "sentence": "a breakdown of expenses",
+            "sentence02": "a ___ of expenses",
+            "jp_sentence": "費用の内訳",
+            "category01": "名",
+            "desc01": "内訳、分析、故障",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "grant",
+            "sentence": "government grants for research",
+            "sentence02": "government ___ for research",
+            "jp_sentence": "政府の研究助成金",
+            "category01": "名",
+            "desc01": "助成金、奨学金",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "cosmopolitan",
+            "sentence": "cosmopolitan atmosphere in the big city",
+            "sentence02": "___ atmosphere in the big city",
+            "jp_sentence": "大都会の国際的な雰囲気",
+            "category01": "形",
+            "desc01": "国際的な、洗練された",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "laidback",
+            "sentence": "laidback environment in the countryside",
+            "sentence02": "___ environment in the countryside",
+            "jp_sentence": "田舎ののんびりした環境",
+            "category01": "形",
+            "desc01": "のんびりした",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "nasty",
+            "sentence": "a nasty smell from the garbage",
+            "sentence02": "a ___ smell from the garbage",
+            "jp_sentence": "生ゴミの嫌な匂い",
+            "category01": "名",
+            "desc01": "不快な、タチの悪い",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "stall",
+            "sentence": "stalls selling food",
+            "sentence02": "___ selling food",
+            "jp_sentence": "食べ物を売る屋台",
+            "category01": "名",
+            "desc01": "屋台、露天",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "narrow",
+            "sentence": "narrow down the cause",
+            "sentence02": "___ down the cause",
+            "jp_sentence": "原因を絞り込む",
+            "category01": "動",
+            "desc01": "絞り込む、範囲を狭くする",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
