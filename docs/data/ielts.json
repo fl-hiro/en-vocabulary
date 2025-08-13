@@ -17305,12 +17305,12 @@
             },
         {
             "id": 20,
-            "word": "dissent",
-            "sentence": "This is where I dissent from the general opinion.",
-            "sentence02": "This is where I ___ from the general opinion.",
-            "jp_sentence": "ここが全体的意向と私の異なる点だ。",
+            "word": "excel",
+            "sentence": "excel in foreign languages",
+            "sentence02": "___ in foreign languages",
+            "jp_sentence": "外国語において優れている",
             "category01": "動",
-            "desc01": "（宗教上などで）意見を異にする",
+            "desc01": "勝る、秀でる",
             "category02": "",
             "desc02": ""
         }
