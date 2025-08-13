@@ -17092,5 +17092,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section78": [
+        {
+            "id": 1,
+            "word": "diverse",
+            "sentence": "people from diverse backgrounds",
+            "sentence02": "people from ___ backgrounds",
+            "jp_sentence": "多様な、相違した",
+            "category01": "形",
+            "desc01": "多様な経歴の人々",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "conspicuous",
+            "sentence": "make oneself conspicuous by wearing gaudy clothes",
+            "sentence02": "make oneself ___ by wearing gaudy clothes",
+            "jp_sentence": "派手な服を着て自分を目立たせる",
+            "category01": "形",
+            "desc01": "目立つ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "expire",
+            "sentence": "My driver's licence expired last month.",
+            "sentence02": "My driver's licence ___ last month.",
+            "jp_sentence": "私の運転免許は先月失効した",
+            "category01": "動",
+            "desc01": "（契約・期限が切れて）無効になる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "malfunction",
+            "sentence": "cause computers to malfunction",
+            "sentence02": "cause computers to ___",
+            "jp_sentence": "コンピューターの故障を引き起こす",
+            "category01": "動",
+            "desc01": "機能不全を引き起こす",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "distriction",
+            "sentence": "without distriction of sex or age",
+            "sentence02": "without ___ of sex or age",
+            "jp_sentence": "性別や年齢の差別なく",
+            "category01": "名",
+            "desc01": "相違、差別、特徴、気品",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "elaborate",
+            "sentence": "an elaborate plan",
+            "sentence02": "an ___ plan",
+            "jp_sentence": "入念な計画",
+            "category01": "形",
+            "desc01": "入念な、精巧な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "overwhelm",
+            "sentence": "be overwhelmed by US military power",
+            "sentence02": "be ___ by US military power",
+            "jp_sentence": "米国の軍事力部に圧倒される",
+            "category01": "動",
+            "desc01": "圧倒する、参らせる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "irrelevant",
+            "sentence": "a point irrelevant to the argument",
+            "sentence02": "a point ___ to the argument",
+            "jp_sentence": "的外れな論点",
+            "category01": "形",
+            "desc01": "不適切な、見当違いの",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "undue",
+            "sentence": "give undue weight to ~",
+            "sentence02": "give ___ weight to ~",
+            "jp_sentence": "〜を重視しすぎる",
+            "category01": "形",
+            "desc01": "過度の、必要以上の、不当な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "shot",
+            "sentence": "a close-up shot",
+            "sentence02": "a close-up ___",
+            "jp_sentence": "クローズアップ写真",
+            "category01": "名",
+            "desc01": "写真、スナップ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "undertake",
+            "sentence": "undertake a challenging task",
+            "sentence02": "___ a challenging task",
+            "jp_sentence": "困難な仕事を引き受ける",
+            "category01": "動",
+            "desc01": "引き受ける、請け負う",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "platform",
+            "sentence": "create a stable platform",
+            "sentence02": "create a stable ___",
+            "jp_sentence": "安定した基盤を築く",
+            "category01": "名",
+            "desc01": "基盤、演壇",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "sport",
+            "sentence": "spoil someone's sport",
+            "sentence02": "spoil someone's ___",
+            "jp_sentence": "人の楽しみに水を差す",
+            "category01": "名",
+            "desc01": "楽しみ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "concrete",
+            "sentence": "concrete evidence",
+            "sentence02": "___ evidence",
+            "jp_sentence": "具体的な証拠",
+            "category01": "形",
+            "desc01": "具体的な、明確な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "sprout",
+            "sentence": "The young leaves sprout in spiring",
+            "sentence02": "The young leaves ___ in spiring",
+            "jp_sentence": "若葉は春に咲く",
+            "category01": "動",
+            "desc01": "芽を出す、（急に）成長する、出現する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "literally",
+            "sentence": "literally translate to ~",
+            "sentence02": "___ translate to ~",
+            "jp_sentence": "文字通りに訳せば〜となる",
+            "category01": "副",
+            "desc01": "文字通り",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "camouflage",
+            "sentence": "camouflage and mimicry",
+            "sentence02": "___ and mimicry",
+            "jp_sentence": "偽装と擬態",
+            "category01": "名",
+            "desc01": "偽装、迷彩、ごまかし",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "equate",
+            "sentence": "equate money with happiness",
+            "sentence02": "___ money with happiness",
+            "jp_sentence": "お金を幸福と同一視する",
+            "category01": "動",
+            "desc01": "同一視する、同等とみなす",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "embrace",
+            "sentence": "embrace the new religion",
+            "sentence02": "___ the new religion",
+            "jp_sentence": "新しい宗教を進んで受け入れる",
+            "category01": "動",
+            "desc01": "喜んで受け入れる、含む",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "dissent",
+            "sentence": "This is where I dissent from the general opinion.",
+            "sentence02": "This is where I ___ from the general opinion.",
+            "jp_sentence": "ここが全体的意向と私の異なる点だ。",
+            "category01": "動",
+            "desc01": "（宗教上などで）意見を異にする",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
