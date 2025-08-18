@@ -18202,5 +18202,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section83": [
+        {
+            "id": 1,
+            "word": "mute",
+            "sentence": "be mute with fear",
+            "sentence02": "be ___ with fear",
+            "jp_sentence": "恐怖で口が利けない",
+            "category01": "形",
+            "desc01": "ものが言えない、唖者の、無言の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "mechanical",
+            "sentence": "maintain mechanical equipment",
+            "sentence02": "maintain ___ equipment",
+            "jp_sentence": "機械設備をメンテナンスする",
+            "category01": "形",
+            "desc01": "機械的な、力学的な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "inhibit",
+            "sentence": "inhibit cancer cell growth",
+            "sentence02": "___ cancer cell growth",
+            "jp_sentence": "がん細胞の増殖を抑圧する",
+            "category01": "動",
+            "desc01": "抑制する、阻害する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "discard",
+            "sentence": "discard the empty bottles",
+            "sentence02": "___ the empty bottles",
+            "jp_sentence": "空き瓶を廃棄する",
+            "category01": "動",
+            "desc01": "捨てる、廃棄する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "assurance",
+            "sentence": "quality assurance",
+            "sentence02": "quality ___",
+            "jp_sentence": "品質保証",
+            "category01": "名",
+            "desc01": "保証、確信",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "composition",
+            "sentence": "study the composition of the chemical",
+            "sentence02": "study the ___ of the chemical",
+            "jp_sentence": "その化学物質の組成を調べる",
+            "category01": "名",
+            "desc01": "組み立て、組成、構造",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "dominate",
+            "sentence": "dominate the colonies",
+            "sentence02": "___ the colonies",
+            "jp_sentence": "植民地を支配する",
+            "category01": "動",
+            "desc01": "支配する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "tentative",
+            "sentence": "reach a tentative agreement",
+            "sentence02": "reach a ___ agreement",
+            "jp_sentence": "暫定合意に達する",
+            "category01": "形",
+            "desc01": "一時的な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "lcoalise",
+            "sentence": "localised anaesthesia",
+            "sentence02": "___ anaesthesia",
+            "jp_sentence": "局部麻酔",
+            "category01": "動",
+            "desc01": "局地的に限定する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "oxidise",
+            "sentence": "oxidise on exposure to air",
+            "sentence02": "___ on exposure to air",
+            "jp_sentence": "空気に触れると酸化する",
+            "category01": "動",
+            "desc01": "酸化する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "dismiss",
+            "sentence": "dismiss an employee for his sexual harasmenet",
+            "sentence02": "___ an employee for his sexual harasmenet",
+            "jp_sentence": "性的嫌がらせで社員を解雇する",
+            "category01": "動",
+            "desc01": "解雇する、解散する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "hive",
+            "sentence": "keep bees in a hive",
+            "sentence02": "keep bees in a ___",
+            "jp_sentence": "巣箱でミツバチを飼育する",
+            "category01": "名",
+            "desc01": "ミツバチの巣箱",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "vertical",
+            "sentence": "a vertical cliff",
+            "sentence02": "a ___ cliff",
+            "jp_sentence": "切り立った壁",
+            "category01": "形",
+            "desc01": "垂直の、縦の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "ponder",
+            "sentence": "ponder the state of the world",
+            "sentence02": "___ the state of the world",
+            "jp_sentence": "世界情勢を熟孝する",
+            "category01": "動",
+            "desc01": "熟孝する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "eject",
+            "sentence": "eject protesters from the building",
+            "sentence02": "interesting ____ of the man",
+            "jp_sentence": "講義者を建物から追い出す",
+            "category01": "動",
+            "desc01": "追い出す、噴出する、取り出す",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "boulder",
+            "sentence": "The boulder rolled down the mountain.",
+            "sentence02": "The ___ rolled down the mountain.",
+            "jp_sentence": "大岩は山を転がり落ちた",
+            "category01": "名",
+            "desc01": "大きな丸い岩",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "reorient",
+            "sentence": "reorient one's thinking aout ~",
+            "sentence02": "___ one's thinking aout ~",
+            "jp_sentence": "〜について考え方を改める",
+            "category01": "動",
+            "desc01": "新しい方向に向ける、順応させる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "fraction",
+            "sentence": "for a fraction of a second",
+            "sentence02": "for a ___ of a second",
+            "jp_sentence": "本の一部の闇",
+            "category01": "名",
+            "desc01": "小部分、断片、端数、分散",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "formulate",
+            "sentence": "formulate one's ideas into a theory",
+            "sentence02": "___ one's ideas into a theory",
+            "jp_sentence": "自分の考えを公式化する",
+            "category01": "動",
+            "desc01": "公式化する、明確に述べる",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "verify",
+            "sentence": "verify the hypothesis",
+            "sentence02": "___ the hypothesis",
+            "jp_sentence": "仮説を証明する",
+            "category01": "動",
+            "desc01": "証明する",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
