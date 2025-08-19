@@ -18424,5 +18424,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section84": [
+        {
+            "id": 1,
+            "word": "plane",
+            "sentence": "a cutting plane",
+            "sentence02": "a cutting ___",
+            "jp_sentence": "切断面",
+            "category01": "名",
+            "desc01": "面、平面",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "provoke",
+            "sentence": "provoke criticism from certain quaters",
+            "sentence02": "___ criticism from certain quaters",
+            "jp_sentence": "ある方面の人々から批判を引き起こす",
+            "category01": "動",
+            "desc01": "引き起こす、怒らせる、挑発する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "flattering",
+            "sentence": "flattering remarks",
+            "sentence02": "___ remarks",
+            "jp_sentence": "嬉しがらせるような発言",
+            "category01": "形",
+            "desc01": "嬉しがらせるような、お世辞の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "army",
+            "sentence": "an army of ants",
+            "sentence02": "an ___ of ants",
+            "jp_sentence": "大軍のアリ",
+            "category01": "名",
+            "desc01": "大軍",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "precedent",
+            "sentence": "rely on legal precedent",
+            "sentence02": "rely on legal ___",
+            "jp_sentence": "判例に依拠する",
+            "category01": "名",
+            "desc01": "前例、慣例",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "garbage",
+            "sentence": "take out the garbage",
+            "sentence02": "take out the ___",
+            "jp_sentence": "ゴミ出しをする",
+            "category01": "名",
+            "desc01": "（生の）ゴミ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "dizzy",
+            "sentence": "A balance disorder makes people feel dizzy.",
+            "sentence02": "A balance disorder makes people feel ___.",
+            "jp_sentence": "平衝障害になるとめまいがする。",
+            "category01": "形",
+            "desc01": "めまいがする、フラフラする",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "exhibit",
+            "sentence": "exhibit classic symptoms",
+            "sentence02": "___ classic symptoms",
+            "jp_sentence": "典型的な症状を示す",
+            "category01": "動",
+            "desc01": "明示する、提示する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "monochrome",
+            "sentence": "monochrome landscape painting",
+            "sentence02": "___ landscape painting",
+            "jp_sentence": "単色（白黒）の風景画",
+            "category01": "形",
+            "desc01": "単色の、白黒の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "lunar",
+            "sentence": "lunar calendar",
+            "sentence02": "___ calendar",
+            "jp_sentence": "太陰暦",
+            "category01": "形",
+            "desc01": "月の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "confirm",
+            "sentence": "New evidence confirmed his confession.",
+            "sentence02": "New evidence ___ his confession.",
+            "jp_sentence": "新たな証拠が彼の自白を裏付けた。",
+            "category01": "動",
+            "desc01": "裏付ける、証明する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "assimilate",
+            "sentence": "assimilate nutrients from the soil",
+            "sentence02": "___ nutrients from the soil",
+            "jp_sentence": "土壌から栄養物を吸収する",
+            "category01": "動",
+            "desc01": "吸収する、同化する、消化する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "surge",
+            "sentence": "surge to the stage",
+            "sentence02": "___ to the stage",
+            "jp_sentence": "ステージに押し寄せる",
+            "category01": "動",
+            "desc01": "押し寄せる、沸き上がる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "emit",
+            "sentence": "emit a curious smell",
+            "sentence02": "___ a curious smell",
+            "jp_sentence": "不思議な匂いを発する",
+            "category01": "動",
+            "desc01": "発散する、放出する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "manufacturing",
+            "sentence": "the automobile manufacturing industry",
+            "sentence02": "the automobile ___ industry",
+            "jp_sentence": "自動車製造業界",
+            "category01": "名",
+            "desc01": "製造",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "rusty",
+            "sentence": "be rusty on English",
+            "sentence02": "be ___ on English",
+            "jp_sentence": "英語が下手になった",
+            "category01": "形",
+            "desc01": "下手になった、衰えた、錆びついた",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "restless",
+            "sentence": "have a restless night",
+            "sentence02": "have a ___ night",
+            "jp_sentence": "不安な一夜を過ごす",
+            "category01": "形",
+            "desc01": "落ち着かない、静止しない",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "penetrate",
+            "sentence": "penetrate deeply into society",
+            "sentence02": "___ deeply into society",
+            "jp_sentence": "社会に深く浸透する",
+            "category01": "動",
+            "desc01": "染み透る、突き通す",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "ambiguous",
+            "sentence": "The prisoner's statement was ambiguous in places.",
+            "sentence02": "The prisoner's statement was ___ in places.",
+            "jp_sentence": "その囚人の申し立ては所々曖昧だった",
+            "category01": "形",
+            "desc01": "曖昧な、2つ以上の意味にとれる",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "charter",
+            "sentence": "The Royal College's charter was granted in 1967.",
+            "sentence02": "The Royal College's ___ was granted in 1967.",
+            "jp_sentence": "ロイヤルカレッジの認可は1967年に認められた。",
+            "category01": "名",
+            "desc01": "認可、特許、特権、設立許可",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
