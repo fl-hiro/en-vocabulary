@@ -18646,5 +18646,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section85": [
+        {
+            "id": 1,
+            "word": "urine",
+            "sentence": "pass urine",
+            "sentence02": "pass ___",
+            "jp_sentence": "放尿する",
+            "category01": "名",
+            "desc01": "尿",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "trigger",
+            "sentence": "trigger a chain reacton",
+            "sentence02": "___ a chain reacton",
+            "jp_sentence": "連鎖反応を引き起こす",
+            "category01": "動",
+            "desc01": "引き起こす、誘発させる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "soul",
+            "sentence": "an honest soul",
+            "sentence02": "an honest ___",
+            "jp_sentence": "正直な人",
+            "category01": "名",
+            "desc01": "人",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "maternal",
+            "sentence": "stimulate maternal instinct",
+            "sentence02": "stimulate ___ instinct",
+            "jp_sentence": "母性本能を刺激する",
+            "category01": "形",
+            "desc01": "母性の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "geometric",
+            "sentence": "a geometric design on wallpaper",
+            "sentence02": "a ___ design on wallpaper",
+            "jp_sentence": "壁紙の幾何学的な模様",
+            "category01": "形",
+            "desc01": "幾何学的な、幾何学の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "handy",
+            "sentence": "a handy tool",
+            "sentence02": "a ___ tool",
+            "jp_sentence": "便利な道具",
+            "category01": "形",
+            "desc01": "便利な、器用な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "bureaucracy",
+            "sentence": "One disadvantage of bureaucracy is much paper.",
+            "sentence02": "One disadvantage of ___ is much paper.",
+            "jp_sentence": "官僚主義の短所の一つは多量な事務仕事です。",
+            "category01": "名",
+            "desc01": "官僚制度、官僚",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "gene",
+            "sentence": "a recessive gene",
+            "sentence02": "a recessive ___",
+            "jp_sentence": "劣勢遺伝子",
+            "category01": "名",
+            "desc01": "遺伝子",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "abolish",
+            "sentence": "abolish slavery",
+            "sentence02": "___ slavery",
+            "jp_sentence": "奴隷制度を廃止する",
+            "category01": "動",
+            "desc01": "廃止する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "self-sufficient",
+            "sentence": "become self-sufficient in rice",
+            "sentence02": "become ___ in rice",
+            "jp_sentence": "米を自給できるようになる",
+            "category01": "形",
+            "desc01": "自給自足の、自立心のある",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "consective",
+            "sentence": "eight consective wine",
+            "sentence02": "eight ___ wine",
+            "jp_sentence": "8連勝",
+            "category01": "形",
+            "desc01": "（魔を置かず一定順序で）連続した",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "delete",
+            "sentence": "delete all reference",
+            "sentence02": "___ all reference",
+            "jp_sentence": "すべての参考資料を削除する",
+            "category01": "動",
+            "desc01": "削除する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "financial",
+            "sentence": "a financial commitment",
+            "sentence02": "a ___ commitment",
+            "jp_sentence": "金銭上の債務",
+            "category01": "形",
+            "desc01": "財政上の、金融の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "rebel",
+            "sentence": "rebel against the goverment",
+            "sentence02": "___ against the goverment",
+            "jp_sentence": "政府に対して反乱を起こす",
+            "category01": "動",
+            "desc01": "反抗する、謀反を起こす",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "regulate",
+            "sentence": "regulate smoking in public places",
+            "sentence02": "___ smoking in public places",
+            "jp_sentence": "公共の場での喫煙を規制する",
+            "category01": "動",
+            "desc01": "規制する、調整する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "irresistible",
+            "sentence": "an irresistible desire",
+            "sentence02": "an ___ desire",
+            "jp_sentence": "抑え難い欲望",
+            "category01": "形",
+            "desc01": "抑え難い、抗し難い",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "burden",
+            "sentence": "minimise a tax burden",
+            "sentence02": "minimise a tax ___",
+            "jp_sentence": "税負担を最小化する",
+            "category01": "名",
+            "desc01": "重荷、負担",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "insulation",
+            "sentence": "insulation against noise",
+            "sentence02": "___ against noise",
+            "jp_sentence": "雑音の遮断",
+            "category01": "名",
+            "desc01": "遮断、隔離、孤立、絶縁、絶縁物",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "inhert",
+            "sentence": "inhert a fortune from a relative",
+            "sentence02": "___ a fortune from a relative",
+            "jp_sentence": "親戚から財産を相続する",
+            "category01": "動",
+            "desc01": "総則する、（遺伝的に）受け継ぐ",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "molten",
+            "sentence": "molten rock",
+            "sentence02": "___ rock",
+            "jp_sentence": "溶岩",
+            "category01": "形",
+            "desc01": "溶けた",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
