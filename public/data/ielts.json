@@ -18868,5 +18868,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section86": [
+        {
+            "id": 1,
+            "word": "negligence",
+            "sentence": "an accident due to negligence",
+            "sentence02": "an accident due to ___",
+            "jp_sentence": "不注意による事故",
+            "category01": "名",
+            "desc01": "怠慢、不注意",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "shoot",
+            "sentence": "bamboo shoots",
+            "sentence02": "bamboo ___",
+            "jp_sentence": "たけのこ",
+            "category01": "名",
+            "desc01": "芽、若い茎",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "outlook",
+            "sentence": "outlook for the world economy",
+            "sentence02": "___ for the world economy",
+            "jp_sentence": "世界経済の見通し",
+            "category01": "名",
+            "desc01": "将来の見通し、見解、眺望",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "dimnish",
+            "sentence": "Our supplies are dimnishing rapidly.",
+            "sentence02": "Our supplies are ___ rapidly.",
+            "jp_sentence": "在庫が急速に",
+            "category01": "動",
+            "desc01": "減る、減らす",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "contemporary",
+            "sentence": "contemporary historians",
+            "sentence02": "___ historians",
+            "jp_sentence": "同時代の歴史家たち",
+            "category01": "形",
+            "desc01": "同時代の、現代の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "thrive",
+            "sentence": "thrive in business",
+            "sentence02": "___ in business",
+            "jp_sentence": "事業で成功する",
+            "category01": "動",
+            "desc01": "栄える、繁茂する、すくすく育つ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "integrate",
+            "sentence": "integrate math into the curriculum",
+            "sentence02": "___ math into the curriculum",
+            "jp_sentence": "数学をカリキュラムに組み入れる",
+            "category01": "動",
+            "desc01": "統合する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "parasite",
+            "sentence": "carry a parasite",
+            "sentence02": "carry a ___",
+            "jp_sentence": "（体内に）寄生虫を持つ",
+            "category01": "名",
+            "desc01": "寄生動植物",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "runoff",
+            "sentence": "nountain snow runoff",
+            "sentence02": "nountain snow ___",
+            "jp_sentence": "山の雪解け水",
+            "category01": "名",
+            "desc01": "（地中に吸収されず流れる）雨水",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "novel",
+            "sentence": "introduce a novel technique",
+            "sentence02": "introduce a ___ technique",
+            "jp_sentence": "新たな技術を導入する",
+            "category01": "形",
+            "desc01": "目新しい、新奇な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "cram",
+            "sentence": "cram a bus with passengers",
+            "sentence02": "___ a bus with passengers",
+            "jp_sentence": "乗客をバスにぎゅうぎゅう詰めにする",
+            "category01": "動",
+            "desc01": "ぎっしり詰め込む、押し込む",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "spawn",
+            "sentence": "spawn a number of problems",
+            "sentence02": "___ a number of problems",
+            "jp_sentence": "幾多の問題を引き起こす",
+            "category01": "動",
+            "desc01": "引き起こす、産む",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "liner",
+            "sentence": "a coat with a silk liner",
+            "sentence02": "a coat with a silk ___",
+            "jp_sentence": "シルクの裏地についたコート",
+            "category01": "名",
+            "desc01": "裏地",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "mandatory",
+            "sentence": "order a mandatory evacuation",
+            "sentence02": "order a ___ evacuation",
+            "jp_sentence": "強制避難命令を出す",
+            "category01": "形",
+            "desc01": "命令の、義務的な、必修の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "alternative",
+            "sentence": "a good alternative available now",
+            "sentence02": "a good ___ available now",
+            "jp_sentence": "今ある良い選択肢",
+            "category01": "名",
+            "desc01": "（もう一つの）選択肢",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "barter",
+            "sentence": "barter gold for guns",
+            "sentence02": "___ gold for guns",
+            "jp_sentence": "金を銃と交換する",
+            "category01": "動",
+            "desc01": "物々交換する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "economy",
+            "sentence": "make economies in househild spending",
+            "sentence02": "make ___ in househild spending",
+            "jp_sentence": "家系の出費を節約する",
+            "category01": "名",
+            "desc01": "節約、倹約",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "stationery",
+            "sentence": "a stationery store",
+            "sentence02": "a ___ store",
+            "jp_sentence": "文房具店",
+            "category01": "名",
+            "desc01": "文房具、便箋",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "tardy",
+            "sentence": "tardy progress",
+            "sentence02": "___ progress",
+            "jp_sentence": "ゆっくりとした進展",
+            "category01": "形",
+            "desc01": "のろい、遅々とした",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "leak",
+            "sentence": "leak a deference secret",
+            "sentence02": "___ a deference secret",
+            "jp_sentence": "防衛上の機密を漏らす",
+            "category01": "動",
+            "desc01": "漏らす",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
