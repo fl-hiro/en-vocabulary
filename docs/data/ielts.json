@@ -19090,5 +19090,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section87": [
+        {
+            "id": 1,
+            "word": "impact",
+            "sentence": "the impact of recession on businesses",
+            "sentence02": "the ___ of recession on businesses",
+            "jp_sentence": "景気後退の企業に対する影響",
+            "category01": "名",
+            "desc01": "影響、衝突、衝撃",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "pesticide",
+            "sentence": "spray pesticides on trees",
+            "sentence02": "spray ___ on trees",
+            "jp_sentence": "木に殺虫剤をまく",
+            "category01": "名",
+            "desc01": "殺虫剤、農薬",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "akin",
+            "sentence": "be akin to one's father's opinion",
+            "sentence02": "be ___ to one's father's opinion",
+            "jp_sentence": "父親の意見と類似している",
+            "category01": "形",
+            "desc01": "類似した、同族の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "friction",
+            "sentence": "friction between labour and management",
+            "sentence02": "___ between labour and management",
+            "jp_sentence": "労使間の対立",
+            "category01": "名",
+            "desc01": "不和、摩擦",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "exotic",
+            "sentence": "exotic species",
+            "sentence02": "___ species",
+            "jp_sentence": "外来種",
+            "category01": "形",
+            "desc01": "外来の、新種の、異国風の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "coverage",
+            "sentence": "newspaper coverage",
+            "sentence02": "newspaper ___",
+            "jp_sentence": "新聞報道",
+            "category01": "名",
+            "desc01": "取材範囲、報道、適用範囲",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "initially",
+            "sentence": "though initially appealing",
+            "sentence02": "though ___ appealing",
+            "jp_sentence": "最初は魅力的だが",
+            "category01": "副",
+            "desc01": "はじめのうちは、まず第一に",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "acclaim",
+            "sentence": "Her techniques were widely acclaimed.",
+            "sentence02": "Her techniques were widely ___.",
+            "jp_sentence": "彼女の技術は広く賞賛された。",
+            "category01": "動",
+            "desc01": "称賛する、歓迎する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "innate",
+            "sentence": "an innate ablity to learn language",
+            "sentence02": "an ___ ablity to learn language",
+            "jp_sentence": "生来の言語獲得能力",
+            "category01": "形",
+            "desc01": "生得の、固有の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "equivalent",
+            "sentence": "The world has no equivalent in English.",
+            "sentence02": "The world has no ___ in English.",
+            "jp_sentence": "英語にはその言葉に相当するものがありません。",
+            "category01": "名",
+            "desc01": "対応（するもの）、同等（するもの）",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "occupy",
+            "sentence": "occupy a high share of the world market",
+            "sentence02": "___ a high share of the world market",
+            "jp_sentence": "世界市場で高いシェアを占める",
+            "category01": "動",
+            "desc01": "占める、占有する、占領する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "bias",
+            "sentence": "maintain a bias against big cities",
+            "sentence02": "maintain a ___ against big cities",
+            "jp_sentence": "大都市に対する偏見を持ち続ける",
+            "category01": "名",
+            "desc01": "偏見、先入観",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "surplus",
+            "sentence": "surplus of the balance of trade",
+            "sentence02": "___ of the balance of trade",
+            "jp_sentence": "貿易収支の黒字",
+            "category01": "名",
+            "desc01": "余り、余剰、黒字",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "artisan",
+            "sentence": "a skilled and creative artisan",
+            "sentence02": "a skilled and creative ___",
+            "jp_sentence": "技術と創造性を持つ職工",
+            "category01": "名",
+            "desc01": "職人、熟練工",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "unmatched",
+            "sentence": "be unmatched in the history of man",
+            "sentence02": "be ___ in the history of man",
+            "jp_sentence": "人類史上類を見ない",
+            "category01": "形",
+            "desc01": "匹敵するもののない、釣り合わない",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "pragmatic",
+            "sentence": "take a pragmatic approach",
+            "sentence02": "take a ___ approach",
+            "jp_sentence": "実用的なアプローチを取る",
+            "category01": "形",
+            "desc01": "実用的な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "audition",
+            "sentence": "have an audition for the part of Lady Macbeth",
+            "sentence02": "have an ___ for the part of Lady Macbeth",
+            "jp_sentence": "マクベス夫人役のオーディションを受ける",
+            "category01": "名",
+            "desc01": "オーディション",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "millennium",
+            "sentence": "at the turn of a millennium",
+            "sentence02": "at the turn of a ___",
+            "jp_sentence": "千年紀の変わり目に",
+            "category01": "名",
+            "desc01": "1000年間",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "commission",
+            "sentence": "I was commissioned to paint the Load Mayor's.",
+            "sentence02": "I was ___ to paint the Load Mayor's.",
+            "jp_sentence": "私は市長の肖像画を描くことを依頼された。",
+            "category01": "動",
+            "desc01": "委託する",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "modest",
+            "sentence": "buy at a modest price",
+            "sentence02": "buy at a ___ price",
+            "jp_sentence": "そこそこの値段で買う",
+            "category01": "形",
+            "desc01": "適度の、控えめな",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
