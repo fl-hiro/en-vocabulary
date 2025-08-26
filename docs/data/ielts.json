@@ -19312,5 +19312,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section88": [
+        {
+            "id": 1,
+            "word": "disproportionate",
+            "sentence": "the disproportionate amount of money spent on war",
+            "sentence02": "the ___ amount of money spent on war",
+            "jp_sentence": "軍事に使われる不釣り合いなほどの資金",
+            "category01": "形",
+            "desc01": "不釣り合いな、反比例な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "whereby",
+            "sentence": "the process whereby DNA makes a copy of itself",
+            "sentence02": "the process ___ DNA makes a copy of itself",
+            "jp_sentence": "DNAがそれによって自己複製する過程",
+            "category01": "関副",
+            "desc01": "それによって、従って",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "credit",
+            "sentence": "the credit he deserves",
+            "sentence02": "the ___ he deserves",
+            "jp_sentence": "彼に相応しい称賛",
+            "category01": "名",
+            "desc01": "称賛、功績、手柄、名声",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "repertoire",
+            "sentence": "expand one's repertoire of skills",
+            "sentence02": "expand one's ___ of skills",
+            "jp_sentence": "技術の幅を広げる",
+            "category01": "名",
+            "desc01": "レパートリー、才能の範囲",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "intricate",
+            "sentence": "undo an intricate knot",
+            "sentence02": "undo an ___ knot",
+            "jp_sentence": "もつれた結び目をほどく",
+            "category01": "形",
+            "desc01": "複雑な、入り組んだ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "pop",
+            "sentence": "pop up from nowhere",
+            "sentence02": "___ up from nowhere",
+            "jp_sentence": "どこからともなく現れる",
+            "category01": "動",
+            "desc01": "ひょいと出る、ひょっこり現れる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "soak",
+            "sentence": "soak up water like sponge",
+            "sentence02": "___ up water like sponge",
+            "jp_sentence": "スポンジのように水を吸う",
+            "category01": "動",
+            "desc01": "吸収する、ひたす、びしょ濡れにする",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "packed",
+            "sentence": "be packed like sardines",
+            "sentence02": "be ___ like sardines",
+            "jp_sentence": "缶詰のイワシのように満員になった",
+            "category01": "形",
+            "desc01": "満員の、いっぱい詰まった",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "timepiece",
+            "sentence": "a mechanical timepiece",
+            "sentence02": "a mechanical ___",
+            "jp_sentence": "機械仕掛けの時計",
+            "category01": "名",
+            "desc01": "時計",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "exile",
+            "sentence": "send a person into exile",
+            "sentence02": "send a person into ___",
+            "jp_sentence": "人を国外に追放する",
+            "category01": "名",
+            "desc01": "追放、亡命者",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "periphery",
+            "sentence": "centre and periphery",
+            "sentence02": "centre and ___",
+            "jp_sentence": "中心と周縁",
+            "category01": "名",
+            "desc01": "周囲、周辺",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "generosity",
+            "sentence": "treat people with generosity and thoughtfulness",
+            "sentence02": "treat people with ___ and thoughtfulness",
+            "jp_sentence": "人を寛大さと思いやりを持って遇する",
+            "category01": "名",
+            "desc01": "寛大さ、気前の良さ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "vigorous",
+            "sentence": "a vigorous election campaign",
+            "sentence02": "a ___ election campaign",
+            "jp_sentence": "精力的な選挙運動",
+            "category01": "形",
+            "desc01": "精力的な、力強い、視力旺盛な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "barely",
+            "sentence": "He barely passed the midterm.",
+            "sentence02": "He ___ passed the midterm.",
+            "jp_sentence": "彼は中間試験をかろうじてパスした。",
+            "category01": "副",
+            "desc01": "かろうじて〜する、ほとんど〜ない",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "foremost",
+            "sentence": "the foremost British artist of this century",
+            "sentence02": "the ___ British artist of this century",
+            "jp_sentence": "今世紀随一の英国人芸術家",
+            "category01": "形",
+            "desc01": "第一の、主要な",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "tag",
+            "sentence": "tag around with someone",
+            "sentence02": "___ 25% of the total population",
+            "jp_sentence": "人の周りに付きまとう",
+            "category01": "動",
+            "desc01": "くっついて",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "explore",
+            "sentence": "explore every possible solution",
+            "sentence02": "___ every possible solution",
+            "jp_sentence": "あらゆる可能な解決法を探る",
+            "category01": "動",
+            "desc01": "調査する、探検する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "makeup",
+            "sentence": "alter the makeup of ~",
+            "sentence02": "alter the ___ of ~",
+            "jp_sentence": "〜の構成を組み替える",
+            "category01": "名",
+            "desc01": "組成、構成",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "hinterland",
+            "sentence": "the hinterland far away from the seashore",
+            "sentence02": "the ___ far away from the seashore",
+            "jp_sentence": "海から遠く離れた奥地",
+            "category01": "名",
+            "desc01": "後背地、内陸地域",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "deforestation",
+            "sentence": "the problem of deforestation and desertification",
+            "sentence02": "the problem of ___ and desertification",
+            "jp_sentence": "森林破壊と砂漠化の問題",
+            "category01": "名",
+            "desc01": "森林破壊（伐採）",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
