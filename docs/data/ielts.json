@@ -19534,5 +19534,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section89": [
+        {
+            "id": 1,
+            "word": "distribution",
+            "sentence": "the age distribution of population",
+            "sentence02": "the age ___ of population",
+            "jp_sentence": "年齢別人口分布",
+            "category01": "名",
+            "desc01": "流通、分布、配分、配置",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "immunity",
+            "sentence": "acquire immunity to a disease",
+            "sentence02": "acquire ___ to a disease",
+            "jp_sentence": "病気に対する免疫を得る",
+            "category01": "名",
+            "desc01": "免疫、（危害などを）免れていること",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "ideology",
+            "sentence": "have a conservative ideology",
+            "sentence02": "have a conservative ___",
+            "jp_sentence": "保守的なイデオロギーを有する",
+            "category01": "名",
+            "desc01": "観念、思想",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "credence",
+            "sentence": "a letter of credence",
+            "sentence02": "a letter of ___",
+            "jp_sentence": "信任状",
+            "category01": "名",
+            "desc01": "信用、信頼",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "senior",
+            "sentence": "a senior parther in a  law firm",
+            "sentence02": "a ___ parther in a  law firm",
+            "jp_sentence": "法律事務所の上級弁護士",
+            "category01": "形",
+            "desc01": "上級の、年長の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "urbanisation",
+            "sentence": "rapid and unplanned urbanisation",
+            "sentence02": "rapid and unplanned ___",
+            "jp_sentence": "急速で無計画な都市化",
+            "category01": "名",
+            "desc01": "都市化",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "legislation",
+            "sentence": "new legislation on the sale of drugs",
+            "sentence02": "new ___ on the sale of drugs",
+            "jp_sentence": "薬品販売に関する新たな法律",
+            "category01": "名",
+            "desc01": "法律、立法、法律制定",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "tripod",
+            "sentence": "set the camera on a tripod",
+            "sentence02": "set the camera on a ___",
+            "jp_sentence": "カメラを三脚にセットする",
+            "category01": "名",
+            "desc01": "三脚",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "recipient",
+            "sentence": "a recipient of the Nobel Prize",
+            "sentence02": "a ___ of the Nobel Prize",
+            "jp_sentence": "ノーベル賞受賞",
+            "category01": "名",
+            "desc01": "受取人",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "pound",
+            "sentence": "pound a nail with a hammer",
+            "sentence02": "___ a nail with a hammer",
+            "jp_sentence": "釘を金槌で打つ",
+            "category01": "動",
+            "desc01": "強く打つ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "scallop",
+            "sentence": "the eye of scallop",
+            "sentence02": "the eye of ___",
+            "jp_sentence": "貝柱",
+            "category01": "名",
+            "desc01": "帆立貝",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "bask",
+            "sentence": "bask in the spring sunshine",
+            "sentence02": "___ in the spring sunshine",
+            "jp_sentence": "春に日差しを浴びる",
+            "category01": "動",
+            "desc01": "（日光・熱などを）浴びる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "curator",
+            "sentence": "a former curator of the museum",
+            "sentence02": "a former ___ of the museum",
+            "jp_sentence": "美術館の元館長",
+            "category01": "名",
+            "desc01": "館長",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "compliance",
+            "sentence": "the company's compliance with international law",
+            "sentence02": "the company's ___ with international law",
+            "jp_sentence": "その会社の国際法の遵守",
+            "category01": "名",
+            "desc01": "従うこと、（法律などの）遵守",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "unfold",
+            "sentence": "unfold an umbrella",
+            "sentence02": "___ an umbrella",
+            "jp_sentence": "傘を広げる",
+            "category01": "動",
+            "desc01": "広げる、開く、明らかにする",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "contempt",
+            "sentence": "contempt for authority",
+            "sentence02": "___ for authority",
+            "jp_sentence": "権威に対する軽蔑",
+            "category01": "名",
+            "desc01": "軽蔑、侮辱",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "menial",
+            "sentence": "a menial job",
+            "sentence02": "a ___ job",
+            "jp_sentence": "つまらない仕事",
+            "category01": "形",
+            "desc01": "つまらない、熟練を要しない",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "novelty",
+            "sentence": "An electric-powered car is a novelty",
+            "sentence02": "An electric-powered car is a ___",
+            "jp_sentence": "電気自動車はまだ珍しい",
+            "category01": "名",
+            "desc01": "珍しいもの、目新しいもの、斬新さ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "deadly",
+            "sentence": "a deadly combination of poverty and famine",
+            "sentence02": "a ___ combination of poverty and famine",
+            "jp_sentence": "貧困と飢餓の致命的組み合わせ",
+            "category01": "形",
+            "desc01": "死にいたる、致命的な",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "tide",
+            "sentence": "the ebb and flow of the tide",
+            "sentence02": "the ebb and flow of the ___",
+            "jp_sentence": "潮の干満",
+            "category01": "名",
+            "desc01": "潮の干満、満ち潮",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
