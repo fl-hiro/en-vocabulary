@@ -19756,5 +19756,227 @@
             "category02": "",
             "desc02": ""
         }
+    ],
+    "section90": [
+        {
+            "id": 1,
+            "word": "inhabit",
+            "sentence": "inhabit the woods",
+            "sentence02": "___ the woods",
+            "jp_sentence": "森に生息している",
+            "category01": "動",
+            "desc01": "生息している、住んでいる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "glacier",
+            "sentence": "alpien glacier",
+            "sentence02": "alpien ___",
+            "jp_sentence": "高山生氷河",
+            "category01": "名",
+            "desc01": "氷河",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "remains",
+            "sentence": "geological remains",
+            "sentence02": "geological ___",
+            "jp_sentence": "地質学的遺跡",
+            "category01": "名",
+            "desc01": "遺跡",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "inherent",
+            "sentence": "inherent viscosity",
+            "sentence02": "___ viscosity",
+            "jp_sentence": "固有粘土",
+            "category01": "形",
+            "desc01": "固有の、生得の",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 5,
+            "word": "collapse",
+            "sentence": "economic collapse",
+            "sentence02": "economic ___",
+            "jp_sentence": "経済の崩壊",
+            "category01": "名",
+            "desc01": "崩壊",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "manifestation",
+            "sentence": "a manifestation of discontent",
+            "sentence02": "a ___ of discontent",
+            "jp_sentence": "不満の現れ",
+            "category01": "名",
+            "desc01": "現れ、兆候",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "cast",
+            "sentence": "cast doubt on the judgment",
+            "sentence02": "___ doubt on the judgment",
+            "jp_sentence": "その判断に疑いを投げかける",
+            "category01": "動",
+            "desc01": "投げる、向ける",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "speculation",
+            "sentence": "stock speculation",
+            "sentence02": "stock ___",
+            "jp_sentence": "株式投機",
+            "category01": "名",
+            "desc01": "投機、思案、熟孝、推測",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 9,
+            "word": "flawed",
+            "sentence": "flawed data",
+            "sentence02": "___ data",
+            "jp_sentence": "誤りのあるデータ",
+            "category01": "形",
+            "desc01": "間違いのある、欠点のある",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 10,
+            "word": "eliminate",
+            "sentence": "eliminate iodine from the body",
+            "sentence02": "___ iodine from the body",
+            "jp_sentence": "ヨウ素を体内から取り除く",
+            "category01": "動",
+            "desc01": "除去する、削除する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "compatible",
+            "sentence": "compatible with the facts",
+            "sentence02": "___ with the facts",
+            "jp_sentence": "事実と矛盾しない",
+            "category01": "形",
+            "desc01": "矛盾しない、気が合う",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "accelerate",
+            "sentence": "accelerate the pace of global warming",
+            "sentence02": "___ the pace of global warming",
+            "jp_sentence": "地球温暖化のペースを早める",
+            "category01": "動",
+            "desc01": "（時期などを）早める、加速する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "shelf",
+            "sentence": "a continencial shelf",
+            "sentence02": "a continencial ___",
+            "jp_sentence": "大陸棚",
+            "category01": "名",
+            "desc01": "岩棚、岩礁、棚状のもの",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "ground",
+            "sentence": "the grounded ice sheet",
+            "sentence02": "the ___ ice sheet",
+            "jp_sentence": "接地水床",
+            "category01": "動",
+            "desc01": "地面に置く",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "disintegrate",
+            "sentence": "The planetold disintegrated.",
+            "sentence02": "The planetold ___.",
+            "jp_sentence": "その諸惑星は崩壊した。",
+            "category01": "動",
+            "desc01": "崩壊する（させる）",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "gauge",
+            "sentence": "a fuel gauge",
+            "sentence02": "a fuel ___",
+            "jp_sentence": "燃料計",
+            "category01": "名",
+            "desc01": "軽器、規格",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "tilt",
+            "sentence": "tilt the balance of power",
+            "sentence02": "___ the balance of power",
+            "jp_sentence": "力の均衡を失わせる",
+            "category01": "動",
+            "desc01": "（バランスを）失わせる、傾ける",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 18,
+            "word": "tap",
+            "sentence": "tap rich resources",
+            "sentence02": "___ rich resources",
+            "jp_sentence": "豊富な資源を利用する",
+            "category01": "動",
+            "desc01": "（資源などを）利用する、開発する",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 19,
+            "word": "altimeter",
+            "sentence": "read a radio altimeter",
+            "sentence02": "read a radio ___",
+            "jp_sentence": "電波高度計を読み取る",
+            "category01": "名",
+            "desc01": "高度計",
+            "category02": "",
+            "desc02": ""
+            },
+        {
+            "id": 20,
+            "word": "transform",
+            "sentence": "transform the country's economy",
+            "sentence02": "___ the country's economy",
+            "jp_sentence": "国の経済を変貌させる",
+            "category01": "動",
+            "desc01": "変える",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
