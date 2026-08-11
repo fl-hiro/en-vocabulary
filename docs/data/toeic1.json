@@ -220,5 +220,237 @@
             "category02": "名",
             "desc02": "動き、引越し"
         }
+    ],
+    "section02": [
+        {
+            "id": 1,
+            "word": "arrive",
+            "sentence": "They arrived in Tokyo yesterday.",
+            "sentence02": "They ___d in Tokyo yesterday.",
+            "jp_sentence": "彼らは昨日東京に到着しました。",
+            "category01": "動",
+            "desc01": "到着する、届く",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "hold",
+            "sentence": "hold an event",
+            "sentence02": "___ an event",
+            "jp_sentence": "イベントを行う",
+            "category01": "動",
+            "desc01": "（イベントを）行う、手に持つ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 3,
+            "word": "return",
+            "sentence": "I'll return on Wednesday.",
+            "sentence02": "I'll ___ on Wednesday.",
+            "jp_sentence": "私は水曜日に戻ります。",
+            "category01": "動",
+            "desc01": "戻る、戻す",
+            "category02": "名",
+            "desc02": "戻ること、戻すこと",
+            "category03": "形",
+            "desc03": "戻りの"
+        },
+        {
+            "id": 4,
+            "word": "opening",
+            "sentence": "The opening of a store",
+            "sentence02": "The ___ of a store",
+            "jp_sentence": "お店のオープン",
+            "category01": "名",
+            "desc01": "（店などの）オープン、仕事の空き",
+            "category02": "形",
+            "desc02": "オープニングの"
+        },
+        {
+            "id": 5,
+            "word": "soon",
+            "sentence": "He should be here soon.",
+            "sentence02": "He should be here ___.",
+            "jp_sentence": "彼はもうすぐここに来るはずです。",
+            "category01": "副",
+            "desc01": "もうすぐ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "sign",
+            "sentence": "Please sign here.",
+            "sentence02": "Please ___ here.",
+            "jp_sentence": "ここに署名してください。",
+            "category01": "動",
+            "desc01": "署名する",
+            "category02": "名",
+            "desc02": "標識、看板"
+        },
+        {
+            "id": 7,
+            "word": "able",
+            "sentence": "I was able to find the restaurant.",
+            "sentence02": "I was ___ to find the restaurant.",
+            "jp_sentence": "私はそのレストランを見つけることができました。",
+            "category01": "形",
+            "desc01": "できる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "few",
+            "sentence": "I have a few minutes.",
+            "sentence02": "I have a ___ minutes.",
+            "jp_sentence": "数分時間があります。",
+            "category01": "形",
+            "desc01": "少数の、少しの",
+            "category02": "代",
+            "desc02": "少数"
+        },
+        {
+            "id": 9,
+            "word": "pay",
+            "sentence": "I'll pay with a credit card.",
+            "sentence02": "I'll ___ with a credit card.",
+            "jp_sentence": "私はクレジットカードで支払います。",
+            "category01": "動",
+            "desc01": "支払う",
+            "category02": "名",
+            "desc02": "給料"
+        },
+        {
+            "id": 10,
+            "word": "trip",
+            "sentence": "He is on a business trip.",
+            "sentence02": "He is on a business ___.",
+            "jp_sentence": "彼は出張中です。",
+            "category01": "名",
+            "desc01": "出張、旅行",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 11,
+            "word": "factory",
+            "sentence": "visit a factory",
+            "sentence02": "visit a ___",
+            "jp_sentence": "工場を訪れる",
+            "category01": "名",
+            "desc01": "工場",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "interested",
+            "sentence": "I am interested in the job.",
+            "sentence02": "I am ___ in the job.",
+            "jp_sentence": "私はその仕事に興味があります。",
+            "category01": "形",
+            "desc01": "興味がある",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "cover",
+            "sentence": "The table is covered with a cloth.",
+            "sentence02": "The table is ___ed with a cloth.",
+            "jp_sentence": "テーブルが布で覆われている。",
+            "category01": "動",
+            "desc01": "覆う、報道する、含む、扱う",
+            "category02": "名",
+            "desc02": "カバー、表紙"
+        },
+        {
+            "id": 14,
+            "word": "choose",
+            "sentence": "choose a book",
+            "sentence02": "___ a book",
+            "jp_sentence": "本を選ぶ",
+            "category01": "動",
+            "desc01": "選ぶ",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "apartment",
+            "sentence": "move to a new apartment",
+            "sentence02": "move to a new ___",
+            "jp_sentence": "新しいアパートに引っ越す",
+            "category01": "名",
+            "desc01": "アパート、マンション",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 16,
+            "word": "paper",
+            "sentence": "She's filing some papers.",
+            "sentence02": "She's filing some ___s.",
+            "jp_sentence": "彼女は書類をファイルしている。",
+            "category01": "名",
+            "desc01": "書類、紙",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "note",
+            "sentence": "Please note that the schedule may change.",
+            "sentence02": "Please ___ that the schedule may change.",
+            "jp_sentence": "スケジュールは変更の可能性がありますのでご注意ください。",
+            "category01": "動",
+            "desc01": "注意する、述べる",
+            "category02": "名",
+            "desc02": "メモ、表記"
+        },
+        {
+            "id": 18,
+            "word": "both",
+            "sentence": "both lunch and dinner",
+            "sentence02": "___ lunch and dinner",
+            "jp_sentence": "ランチもディナーも両方とも",
+            "category01": "接",
+            "desc01": "両方とも",
+            "category02": "形",
+            "desc02": "両方の",
+            "category03": "代",
+            "desc03": "両方",
+            "category04": "副",
+            "desc04": "両方ともに"
+        },
+        {
+            "id": 19,
+            "word": "either",
+            "sentence": "either coffee or tea",
+            "sentence02": "___ coffee or tea",
+            "jp_sentence": "コーヒーか紅茶のどちらか",
+            "category01": "接",
+            "desc01": "どちらか",
+            "category02": "形",
+            "desc02": "どちらかの",
+            "category03": "代",
+            "desc03": "どちらも",
+            "category04": "副",
+            "desc04": "〜もない"
+        },
+        {
+            "id": 20,
+            "word": "neither",
+            "sentence": "Neither Tex nor Masaya can speak Chinese.",
+            "sentence02": "___ Tex nor Masaya can speak Chinese.",
+            "jp_sentence": "テックスもマサヤも中国語を話せません。",
+            "category01": "接形代副",
+            "desc01": "どちらも〜ない",
+            "category02": "",
+            "desc02": ""
+        }
     ]
 }
