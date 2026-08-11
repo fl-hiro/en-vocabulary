@@ -1,1 +1,224 @@
-{}
+{
+    "section01": [
+        {
+            "id": 1,
+            "word": "begin",
+            "sentence": "Begin now!",
+            "sentence02": "___ now!",
+            "jp_sentence": "今、始めよう！",
+            "category01": "動",
+            "desc01": "始まる、始める",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 2,
+            "word": "work",
+            "sentence": "I work at a school.",
+            "sentence02": "I ___ at a school.",
+            "jp_sentence": "私は学校で働いています。",
+            "category01": "動",
+            "desc01": "働く、作業する、うまくいく",
+            "category02": "名",
+            "desc02": "仕事、作業、職場、作品"
+        },
+        {
+            "id": 3,
+            "word": "company",
+            "sentence": "a new company",
+            "sentence02": "a new ___",
+            "jp_sentence": "新しい会社",
+            "category01": "名",
+            "desc01": "会社",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 4,
+            "word": "order",
+            "sentence": "My order number is 600.",
+            "sentence02": "My ___ number is 600.",
+            "jp_sentence": "私の注文番号は600です。",
+            "category01": "名",
+            "desc01": "注文、順番",
+            "category02": "動",
+            "desc02": "注文する"
+        },
+        {
+            "id": 5,
+            "word": "employee",
+            "sentence": "an employee of the company",
+            "sentence02": "an ___ of the company",
+            "jp_sentence": "その会社の従業員",
+            "category01": "名",
+            "desc01": "社員、従業員",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 6,
+            "word": "information",
+            "sentence": "get information",
+            "sentence02": "get ___",
+            "jp_sentence": "情報を得る",
+            "category01": "名",
+            "desc01": "情報",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 7,
+            "word": "receive",
+            "sentence": "receive an e-mail",
+            "sentence02": "___ an e-mail",
+            "jp_sentence": "メールを受け取る",
+            "category01": "動",
+            "desc01": "受け取る",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 8,
+            "word": "last",
+            "sentence": "The event will last three days.",
+            "sentence02": "The event will ___ three days.",
+            "jp_sentence": "そのイベントは3日間続きます。",
+            "category01": "動",
+            "desc01": "続く",
+            "category02": "形",
+            "desc02": "この前の、最後の"
+        },
+        {
+            "id": 9,
+            "word": "need",
+            "sentence": "I need some help.",
+            "sentence02": "I ___ some help.",
+            "jp_sentence": "助けが必要です。",
+            "category01": "動",
+            "desc01": "〜必要とする、〜する必要がある",
+            "category02": "名",
+            "desc02": "必要性、ニーズ"
+        },
+        {
+            "id": 10,
+            "word": "travel",
+            "sentence": "read a travel guide.",
+            "sentence02": "read a ___ guide.",
+            "jp_sentence": "旅行ガイドを読む",
+            "category01": "名",
+            "desc01": "旅、出張",
+            "category02": "動",
+            "desc02": "旅する、出張する"
+        },
+        {
+            "id": 11,
+            "word": "job",
+            "sentence": "I like my job.",
+            "sentence02": "I like my ___.",
+            "jp_sentence": "私は自分の仕事が好きです。",
+            "category01": "名",
+            "desc01": "仕事",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 12,
+            "word": "find",
+            "sentence": "I need to find a job.",
+            "sentence02": "I need to ___ a job.",
+            "jp_sentence": "私は仕事を見つける必要がある。",
+            "category01": "動",
+            "desc01": "見つける、思う",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 13,
+            "word": "department",
+            "sentence": "There are 30 people in department.",
+            "sentence02": "There are 30 people in ___.",
+            "jp_sentence": "私の部署には30名います。",
+            "category01": "名",
+            "desc01": "部、部署、売り場",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 14,
+            "word": "let",
+            "sentence": "Let me check.",
+            "sentence02": "___ me check.",
+            "jp_sentence": "確認させてください。",
+            "category01": "動",
+            "desc01": "〜させる",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 15,
+            "word": "visit",
+            "sentence": "visit a museum",
+            "sentence02": "___ a museum",
+            "jp_sentence": "博物館を訪れる",
+            "category01": "動",
+            "desc01": "訪れる",
+            "category02": "名",
+            "desc02": "訪問"
+        },
+        {
+            "id": 16,
+            "word": "also",
+            "sentence": "You can also order online.",
+            "sentence02": "You can ___ order online.",
+            "jp_sentence": "オンラインでも注文できます。",
+            "category01": "副",
+            "desc01": "〜もまた",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 17,
+            "word": "sure",
+            "sentence": "I'm not sure.",
+            "sentence02": "I'm not ___.",
+            "jp_sentence": "確かではありません。",
+            "category01": "形",
+            "desc01": "確かな、必ず",
+            "category02": "副",
+            "desc02": "もちろん"
+        },
+        {
+            "id": 18,
+            "word": "leave",
+            "sentence": "The train will leave at 8 P.M.",
+            "sentence02": "The train will ___ at 8 P.M.",
+            "jp_sentence": "その電車は午後8時に出発します。",
+            "category01": "動",
+            "desc01": "出発する、残す、辞める、〜のままにする",
+            "category02": "名",
+            "desc02": "休暇"
+        },
+        {
+            "id": 19,
+            "word": "sales",
+            "sentence": "He is a sales manager.",
+            "sentence02": "He is a ___ manager.",
+            "jp_sentence": "彼は営業マネージャーです。",
+            "category01": "名",
+            "desc01": "営業、売上",
+            "category02": "",
+            "desc02": ""
+        },
+        {
+            "id": 20,
+            "word": "move",
+            "sentence": "I've just moved here.",
+            "sentence02": "I've just ___d here.",
+            "jp_sentence": "私はここに引っ越してきたばかりです。",
+            "category01": "動",
+            "desc01": "動かす、動く、引っ越す",
+            "category02": "名",
+            "desc02": "動き、引越し"
+        }
+    ]
+}
